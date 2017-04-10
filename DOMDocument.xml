@@ -1,0 +1,1280 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" backgroundColor="#000000" width="600" frameRate="40" currentTimeline="1" xflVersion="2.1" creatorInfo="Adobe Flash Professional CS5.5" platform="Windows" versionInfo="Saved by Adobe Flash Windows 11.5 build 325" majorVersion="11" minorVersion="5" buildNumber="325" viewAngle3D="59.1837342884091" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" autoSaveEnabled="true" autoSaveHasPrompted="true">
+     <media>
+          <DOMBitmapItem name="0.png" itemID="5770cc64-000002d4" sourceExternalFilepath="../../MyGamePavel/LIBRARY/0.png" sourceLastImported="1467010104" externalFileCRC32="1776195606" externalFileSize="25707" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="0.png" bitmapDataHRef="M 153 1467010148.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
+          <DOMBitmapItem name="1.png" itemID="576cfd93-0000024e" sourceExternalFilepath="../../MyGamePavel/LIBRARY/1.png" sourceLastImported="1466758173" externalFileCRC32="2631587384" externalFileSize="266" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="1.png" bitmapDataHRef="M 24 1466760595.dat" frameRight="860" frameBottom="780"/>
+          <DOMBitmapItem name="10.png" itemID="576cfd93-0000027b" sourceExternalFilepath="../../MyGamePavel/LIBRARY/10.png" sourceLastImported="1466758096" externalFileCRC32="3904028990" externalFileSize="1353" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="10.png" bitmapDataHRef="M 33 1466760595.dat" frameRight="1500" frameBottom="1200"/>
+          <DOMBitmapItem name="11.png" itemID="576cfd93-00000280" sourceExternalFilepath="../../MyGamePavel/LIBRARY/11.png" sourceLastImported="1466758089" externalFileCRC32="340013290" externalFileSize="1196" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="11.png" bitmapDataHRef="M 34 1466760595.dat" frameRight="1540" frameBottom="1240"/>
+          <DOMBitmapItem name="11111.png" itemID="576ba418-0000023d" sourceExternalFilepath="../../MyGamePavel/LIBRARY/11111.png" sourceLastImported="1466671836" externalFileCRC32="3378824803" externalFileSize="12476" originalCompressionType="lossless" quality="50" href="11111.png" bitmapDataHRef="M 13 1466672152.dat" frameRight="5220" frameBottom="2580"/>
+          <DOMBitmapItem name="12.png" itemID="576cfd93-00000285" sourceExternalFilepath="../../MyGamePavel/LIBRARY/12.png" sourceLastImported="1466758081" externalFileCRC32="3278017672" externalFileSize="1154" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="12.png" bitmapDataHRef="M 35 1466760595.dat" frameRight="1500" frameBottom="1180"/>
+          <DOMBitmapItem name="13.png" itemID="576cfd93-0000028a" sourceExternalFilepath="../../MyGamePavel/LIBRARY/13.png" sourceLastImported="1466758073" externalFileCRC32="1345635120" externalFileSize="1104" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="13.png" bitmapDataHRef="M 36 1466760595.dat" frameRight="1440" frameBottom="1140"/>
+          <DOMBitmapItem name="14.png" itemID="576cfd93-0000028f" sourceExternalFilepath="../../MyGamePavel/LIBRARY/14.png" sourceLastImported="1466758065" externalFileCRC32="4046017915" externalFileSize="1080" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="14.png" bitmapDataHRef="M 37 1466760595.dat" frameRight="1440" frameBottom="1120"/>
+          <DOMBitmapItem name="15.png" itemID="576cfd94-00000294" sourceExternalFilepath="../../MyGamePavel/LIBRARY/15.png" sourceLastImported="1466758057" externalFileCRC32="746487087" externalFileSize="739" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="15.png" bitmapDataHRef="M 38 1466760596.dat" frameRight="1500" frameBottom="800"/>
+          <DOMBitmapItem name="16.png" itemID="576cfd94-00000299" sourceExternalFilepath="../../MyGamePavel/LIBRARY/16.png" sourceLastImported="1466758050" externalFileCRC32="3343534206" externalFileSize="764" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="16.png" bitmapDataHRef="M 39 1466760596.dat" frameRight="1520" frameBottom="880"/>
+          <DOMBitmapItem name="17.png" itemID="576cfd94-0000029e" sourceExternalFilepath="../../MyGamePavel/LIBRARY/17.png" sourceLastImported="1466757855" externalFileCRC32="1576845894" externalFileSize="774" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="17.png" bitmapDataHRef="M 40 1466760596.dat" frameRight="1480" frameBottom="940"/>
+          <DOMBitmapItem name="1979678.jpg" itemID="576a8bb2-00000211" sourceExternalFilepath="../../MyGamePavel/LIBRARY/1979678.jpg" sourceLastImported="1466600361" externalFileCRC32="3494598145" externalFileSize="1165183" originalCompressionType="lossless" quality="50" href="1979678.jpg" bitmapDataHRef="M 4 1466600370.dat" frameRight="51200" frameBottom="28800"/>
+          <DOMBitmapItem name="2.png" itemID="576cfd93-00000253" sourceExternalFilepath="../../MyGamePavel/LIBRARY/2.png" sourceLastImported="1466758166" externalFileCRC32="3945523131" externalFileSize="547" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="2.png" bitmapDataHRef="M 25 1466760595.dat" frameRight="1080" frameBottom="1080"/>
+          <DOMBitmapItem name="201.gif" itemID="576d3dab-000004fe" sourceExternalFilepath="../../MyGamePavel/LIBRARY/201.gif" sourceLastImported="1466776937" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="201.gif" bitmapDataHRef="M 65 1466777003.dat" frameRight="12000" frameBottom="9000"/>
+          <DOMBitmapItem name="22222.png" itemID="576ba418-00000242" sourceExternalFilepath="../../MyGamePavel/LIBRARY/22222.png" sourceLastImported="1466671862" externalFileCRC32="2180923062" externalFileSize="11751" originalCompressionType="lossless" quality="50" href="22222.png" bitmapDataHRef="M 14 1466672152.dat" frameRight="5220" frameBottom="2540"/>
+          <DOMBitmapItem name="2screenshipssmall.png" itemID="576aac72-0000021c" sourceExternalFilepath="../../MyGamePavel/LIBRARY/2screenshipssmall.png" sourceLastImported="1466607351" externalFileCRC32="2909013212" externalFileSize="11423" originalCompressionType="lossless" quality="50" href="2screenshipssmall.png" bitmapDataHRef="M 5 1466608754.dat" frameRight="5560" frameBottom="2720"/>
+          <DOMBitmapItem name="3.png" itemID="576cfd93-00000258" sourceExternalFilepath="../../MyGamePavel/LIBRARY/3.png" sourceLastImported="1466758158" externalFileCRC32="69693484" externalFileSize="1298" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="3.png" bitmapDataHRef="M 26 1466760595.dat" frameRight="1560" frameBottom="1360"/>
+          <DOMBitmapItem name="301.png" itemID="576e5232-000002e6" sourceExternalFilepath="../../MyGamePavel/LIBRARY/301.png" sourceLastImported="1466847778" externalFileCRC32="536883692" externalFileSize="1078" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="301.png" bitmapDataHRef="M 99 1466847794.dat" frameRight="740" frameBottom="800"/>
+          <DOMBitmapItem name="302.png" itemID="576e5232-000002ea" sourceExternalFilepath="../../MyGamePavel/LIBRARY/302.png" sourceLastImported="1466847766" externalFileCRC32="100470346" externalFileSize="3564" originalCompressionType="lossless" quality="50" href="302.png" bitmapDataHRef="M 100 1466847794.dat" frameRight="1340" frameBottom="1240"/>
+          <DOMBitmapItem name="303.png" itemID="576e5232-000002ee" sourceExternalFilepath="../../MyGamePavel/LIBRARY/303.png" sourceLastImported="1466847753" externalFileCRC32="3630489424" externalFileSize="5084" originalCompressionType="lossless" quality="50" href="303.png" bitmapDataHRef="M 101 1466847794.dat" frameRight="1680" frameBottom="1660"/>
+          <DOMBitmapItem name="304.png" itemID="576e5232-000002f2" sourceExternalFilepath="../../MyGamePavel/LIBRARY/304.png" sourceLastImported="1466847743" externalFileCRC32="2329496697" externalFileSize="5947" originalCompressionType="lossless" quality="50" href="304.png" bitmapDataHRef="M 102 1466847794.dat" frameRight="1820" frameBottom="1920"/>
+          <DOMBitmapItem name="305.png" itemID="576e5232-000002f6" sourceExternalFilepath="../../MyGamePavel/LIBRARY/305.png" sourceLastImported="1466847732" externalFileCRC32="3560555154" externalFileSize="6304" originalCompressionType="lossless" quality="50" href="305.png" bitmapDataHRef="M 103 1466847794.dat" frameRight="1800" frameBottom="1860"/>
+          <DOMBitmapItem name="306.png" itemID="576e5232-000002fa" sourceExternalFilepath="../../MyGamePavel/LIBRARY/306.png" sourceLastImported="1466847723" externalFileCRC32="1281485393" externalFileSize="5970" originalCompressionType="lossless" quality="50" href="306.png" bitmapDataHRef="M 104 1466847794.dat" frameRight="1900" frameBottom="1920"/>
+          <DOMBitmapItem name="307.png" itemID="576e5232-000002fe" sourceExternalFilepath="../../MyGamePavel/LIBRARY/307.png" sourceLastImported="1466847714" externalFileCRC32="3986147628" externalFileSize="4226" originalCompressionType="lossless" quality="50" href="307.png" bitmapDataHRef="M 105 1466847794.dat" frameRight="1880" frameBottom="1980"/>
+          <DOMBitmapItem name="308.png" itemID="576e5232-00000302" sourceExternalFilepath="../../MyGamePavel/LIBRARY/308.png" sourceLastImported="1466847704" externalFileCRC32="1649294985" externalFileSize="1013" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="308.png" bitmapDataHRef="M 106 1466847794.dat" frameRight="1700" frameBottom="1920"/>
+          <DOMBitmapItem name="31052-mini.gif" itemID="576d37af-00000444" sourceExternalFilepath="../../MyGamePavel/LIBRARY/31052-mini.gif" sourceLastImported="1466775456" externalFileCRC32="2656876757" externalFileSize="131258" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="31052-mini.gif" bitmapDataHRef="M 45 1466775471.dat" frameRight="10000" frameBottom="9240"/>
+          <DOMBitmapItem name="3333.png" itemID="576ba418-00000247" sourceExternalFilepath="../../MyGamePavel/LIBRARY/3333.png" sourceLastImported="1466671894" externalFileCRC32="984517426" externalFileSize="11776" originalCompressionType="lossless" quality="50" href="3333.png" bitmapDataHRef="M 15 1466672152.dat" frameRight="5360" frameBottom="2620"/>
+          <DOMBitmapItem name="4.png" itemID="576cfd93-0000025d" sourceExternalFilepath="../../MyGamePavel/LIBRARY/4.png" sourceLastImported="1466758150" externalFileCRC32="2489886277" externalFileSize="1265" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="4.png" bitmapDataHRef="M 27 1466760595.dat" frameRight="1460" frameBottom="1200"/>
+          <DOMBitmapItem name="401.gif" itemID="576ff8db-00000288" sourceExternalFilepath="../../MyGamePavel/LIBRARY/401.gif" sourceLastImported="1466955177" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="401.gif" bitmapDataHRef="M 130 1466955995.dat" frameRight="6080" frameBottom="4680"/>
+          <DOMBitmapItem name="410.gif" itemID="576ffb6c-000002d0" sourceExternalFilepath="../../MyGamePavel/LIBRARY/410.gif" sourceLastImported="1466956636" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="410.gif" bitmapDataHRef="M 132 1466956652.dat" frameRight="12800" frameBottom="9600"/>
+          <DOMBitmapItem name="430.gif" itemID="576ffc0e-00000307" sourceExternalFilepath="../../MyGamePavel/LIBRARY/430.gif" sourceLastImported="1466956805" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="430.gif" bitmapDataHRef="M 148 1466956814.dat" frameRight="10000" frameBottom="12440"/>
+          <DOMBitmapItem name="44444.png" itemID="576ba418-0000024c" sourceExternalFilepath="../../MyGamePavel/LIBRARY/44444.png" sourceLastImported="1466671912" externalFileCRC32="2818174468" externalFileSize="11265" originalCompressionType="lossless" quality="50" href="44444.png" bitmapDataHRef="M 16 1466672152.dat" frameRight="5220" frameBottom="2540"/>
+          <DOMBitmapItem name="5.png" itemID="576cfd93-00000262" sourceExternalFilepath="../../MyGamePavel/LIBRARY/5.png" sourceLastImported="1466758135" externalFileCRC32="3870787079" externalFileSize="1245" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="5.png" bitmapDataHRef="M 28 1466760595.dat" frameRight="1680" frameBottom="1320"/>
+          <DOMBitmapItem name="6.png" itemID="576cfd93-00000267" sourceExternalFilepath="../../MyGamePavel/LIBRARY/6.png" sourceLastImported="1466758127" externalFileCRC32="2865146416" externalFileSize="1200" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="6.png" bitmapDataHRef="M 29 1466760595.dat" frameRight="1500" frameBottom="1120"/>
+          <DOMBitmapItem name="7.png" itemID="576cfd93-0000026c" sourceExternalFilepath="../../MyGamePavel/LIBRARY/7.png" sourceLastImported="1466758120" externalFileCRC32="1029961772" externalFileSize="1285" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="7.png" bitmapDataHRef="M 30 1466760595.dat" frameRight="1600" frameBottom="1140"/>
+          <DOMBitmapItem name="8.png" itemID="576cfd93-00000271" sourceExternalFilepath="../../MyGamePavel/LIBRARY/8.png" sourceLastImported="1466758112" externalFileCRC32="2569398244" externalFileSize="1292" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="8.png" bitmapDataHRef="M 31 1466760595.dat" frameRight="1520" frameBottom="1060"/>
+          <DOMBitmapItem name="9.png" itemID="576cfd93-00000276" sourceExternalFilepath="../../MyGamePavel/LIBRARY/9.png" sourceLastImported="1466758105" externalFileCRC32="3602720453" externalFileSize="1328" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="9.png" bitmapDataHRef="M 32 1466760595.dat" frameRight="1480" frameBottom="1120"/>
+          <DOMBitmapItem name="951251531.gif" itemID="576ff8b4-00000280" sourceExternalFilepath="../../MyGamePavel/LIBRARY/951251531.gif" sourceLastImported="1466955177" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="951251531.gif" bitmapDataHRef="M 128 1466955956.dat" frameRight="6080" frameBottom="4680"/>
+          <DOMBitmapItem name="aaaaaa1.png" itemID="5770cc9c-000002f7" sourceExternalFilepath="../../MyGamePavel/LIBRARY/aaaaaa1.png" sourceLastImported="1467010104" externalFileCRC32="1776195606" externalFileSize="25707" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="aaaaaa1.png" bitmapDataHRef="M 160 1467010204.dat" frameRight="12840" frameBottom="3180"/>
+          <DOMBitmapItem name="aaaaaa4.png" itemID="5770cc9c-000002fc" sourceExternalFilepath="../../MyGamePavel/LIBRARY/aaaaaa4.png" sourceLastImported="1467010068" externalFileCRC32="4203840852" externalFileSize="33677" originalCompressionType="lossless" quality="50" href="aaaaaa4.png" bitmapDataHRef="M 161 1467010204.dat" frameRight="12840" frameBottom="3180"/>
+          <DOMBitmapItem name="aaaaaaa2.png" itemID="5770cc9c-00000301" sourceExternalFilepath="../../MyGamePavel/LIBRARY/aaaaaaa2.png" sourceLastImported="1467010092" externalFileCRC32="3617706579" externalFileSize="30841" originalCompressionType="lossless" quality="50" href="aaaaaaa2.png" bitmapDataHRef="M 162 1467010204.dat" frameRight="12840" frameBottom="3180"/>
+          <DOMBitmapItem name="aaaaaaa3.png" itemID="5770cc9c-00000306" sourceExternalFilepath="../../MyGamePavel/LIBRARY/aaaaaaa3.png" sourceLastImported="1467010078" externalFileCRC32="3034481292" externalFileSize="33083" originalCompressionType="lossless" quality="50" href="aaaaaaa3.png" bitmapDataHRef="M 163 1467010204.dat" frameRight="12840" frameBottom="3180"/>
+          <DOMBitmapItem name="aaaaaaaa6.png" itemID="5770cc9c-0000030b" sourceExternalFilepath="../../MyGamePavel/LIBRARY/aaaaaaaa6.png" sourceLastImported="1467010046" externalFileCRC32="3034481292" externalFileSize="33083" originalCompressionType="lossless" quality="50" href="aaaaaaaa6.png" bitmapDataHRef="M 164 1467010204.dat" frameRight="12840" frameBottom="3180"/>
+          <DOMBitmapItem name="aaaaaaaa7.png" itemID="5770cc9c-00000310" sourceExternalFilepath="../../MyGamePavel/LIBRARY/aaaaaaaa7.png" sourceLastImported="1467010033" externalFileCRC32="3735803683" externalFileSize="30838" originalCompressionType="lossless" quality="50" href="aaaaaaaa7.png" bitmapDataHRef="M 165 1467010204.dat" frameRight="12840" frameBottom="3180"/>
+          <DOMBitmapItem name="aaaaaaaaa5.png" itemID="5770cc9c-00000315" sourceExternalFilepath="../../MyGamePavel/LIBRARY/aaaaaaaaa5.png" sourceLastImported="1467010057" externalFileCRC32="4203840852" externalFileSize="33677" originalCompressionType="lossless" quality="50" href="aaaaaaaaa5.png" bitmapDataHRef="M 166 1467010204.dat" frameRight="12840" frameBottom="3180"/>
+          <DOMSoundItem name="AsteroidExplosion.wav" itemID="576ed80b-0000036a" linkageExportForAS="true" linkageIdentifier="sExp" sourceExternalFilepath="../../MyGamePavel/LIBRARY/AsteroidExplosion.wav" sourceLastImported="1466936852" externalFileCRC32="2298163898" externalFileSize="460458" href="AsteroidExplosion.wav" soundDataHRef="M 112 1466882059.dat" format="44kHz 16bit Stereo" sampleCount="115063"/>
+          <DOMBitmapItem name="bbb1.png" itemID="5770d0bc-0000033b" sourceExternalFilepath="../../MyGamePavel/LIBRARY/bbb1.png" sourceLastImported="1467011202" externalFileCRC32="297635564" externalFileSize="4845" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="bbb1.png" bitmapDataHRef="M 168 1467011260.dat" frameRight="3660" frameBottom="1820"/>
+          <DOMBitmapItem name="bbbb2.png" itemID="5770d0bc-0000033f" sourceExternalFilepath="../../MyGamePavel/LIBRARY/bbbb2.png" sourceLastImported="1467011195" externalFileCRC32="838482563" externalFileSize="7060" originalCompressionType="lossless" quality="50" href="bbbb2.png" bitmapDataHRef="M 169 1467011260.dat" frameRight="3660" frameBottom="1820"/>
+          <DOMBitmapItem name="bbbb3.png" itemID="5770d0bc-00000343" sourceExternalFilepath="../../MyGamePavel/LIBRARY/bbbb3.png" sourceLastImported="1467011187" externalFileCRC32="2783737099" externalFileSize="7704" originalCompressionType="lossless" quality="50" href="bbbb3.png" bitmapDataHRef="M 170 1467011260.dat" frameRight="3660" frameBottom="1820"/>
+          <DOMBitmapItem name="bbbb4.png" itemID="5770d0bc-00000347" sourceExternalFilepath="../../MyGamePavel/LIBRARY/bbbb4.png" sourceLastImported="1467011179" externalFileCRC32="3364967349" externalFileSize="7745" originalCompressionType="lossless" quality="50" href="bbbb4.png" bitmapDataHRef="M 171 1467011260.dat" frameRight="3660" frameBottom="1820"/>
+          <DOMBitmapItem name="bbbb5.png" itemID="5770d0bc-0000034b" sourceExternalFilepath="../../MyGamePavel/LIBRARY/bbbb5.png" sourceLastImported="1467011169" externalFileCRC32="3364967349" externalFileSize="7745" originalCompressionType="lossless" quality="50" href="bbbb5.png" bitmapDataHRef="M 172 1467011260.dat" frameRight="3660" frameBottom="1820"/>
+          <DOMBitmapItem name="bbbb6.png" itemID="5770d0bc-0000034f" sourceExternalFilepath="../../MyGamePavel/LIBRARY/bbbb6.png" sourceLastImported="1467011160" externalFileCRC32="664902103" externalFileSize="7594" originalCompressionType="lossless" quality="50" href="bbbb6.png" bitmapDataHRef="M 173 1467011260.dat" frameRight="3660" frameBottom="1820"/>
+          <DOMBitmapItem name="bbbb7.png" itemID="5770d0bc-00000337" sourceExternalFilepath="../../MyGamePavel/LIBRARY/bbbb7.png" sourceLastImported="1467011151" externalFileCRC32="4861246" externalFileSize="6984" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="bbbb7.png" bitmapDataHRef="M 167 1467011260.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
+          <DOMSoundItem name="bgMusic1.wav" itemID="576ee6a3-00000390" linkageExportForAS="true" linkageIdentifier="bgMusic" sourceExternalFilepath="../../MyGamePavel/LIBRARY/bgMusic1.wav" sourceLastImported="1491817622" externalFileCRC32="2792805219" externalFileSize="18414054" href="bgMusic1.wav" soundDataHRef="M 111 1466879068.dat" format="44kHz 16bit Mono" sampleCount="9206988"/>
+          <DOMBitmapItem name="board_mc2.png" itemID="576d014e-00000307" sourceExternalFilepath="../../MyGamePavel/LIBRARY/board_mc2.png" sourceLastImported="1466761517" externalFileCRC32="3722511099" externalFileSize="4585" originalCompressionType="lossless" quality="50" href="board_mc2.png" bitmapDataHRef="M 41 1466761550.dat" frameRight="1560" frameBottom="1120"/>
+          <DOMBitmapItem name="bullet.png" itemID="576bcef5-00000323" sourceExternalFilepath="../../MyGamePavel/LIBRARY/bullet.png" sourceLastImported="1466683111" externalFileCRC32="203864458" externalFileSize="1286" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="bullet.png" bitmapDataHRef="M 29 1466683125.dat" frameRight="1240" frameBottom="780"/>
+          <DOMBitmapItem name="cccc1 (1).png" itemID="5770d3e8-0000037c" sourceExternalFilepath="../../MyGamePavel/LIBRARY/cccc1 (1).png" sourceLastImported="1467012025" externalFileCRC32="3182478863" externalFileSize="6701" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="cccc1 (1).png" bitmapDataHRef="M 175 1467012072.dat" frameRight="4420" frameBottom="2180"/>
+          <DOMBitmapItem name="cccc1 (2).png" itemID="5770d3e8-00000381" sourceExternalFilepath="../../MyGamePavel/LIBRARY/cccc1 (2).png" sourceLastImported="1467012015" externalFileCRC32="414912280" externalFileSize="9706" originalCompressionType="lossless" quality="50" href="cccc1 (2).png" bitmapDataHRef="M 176 1467012072.dat" frameRight="4420" frameBottom="2180"/>
+          <DOMBitmapItem name="cccc1 (3).png" itemID="5770d3e8-00000386" sourceExternalFilepath="../../MyGamePavel/LIBRARY/cccc1 (3).png" sourceLastImported="1467012007" externalFileCRC32="4089382498" externalFileSize="10361" originalCompressionType="lossless" quality="50" href="cccc1 (3).png" bitmapDataHRef="M 177 1467012072.dat" frameRight="4420" frameBottom="2180"/>
+          <DOMBitmapItem name="cccc1 (4).png" itemID="5770d3e8-0000038b" sourceExternalFilepath="../../MyGamePavel/LIBRARY/cccc1 (4).png" sourceLastImported="1467012000" externalFileCRC32="2211858099" externalFileSize="10368" originalCompressionType="lossless" quality="50" href="cccc1 (4).png" bitmapDataHRef="M 178 1467012072.dat" frameRight="4420" frameBottom="2180"/>
+          <DOMBitmapItem name="cccc1 (5).png" itemID="5770d3e8-00000390" sourceExternalFilepath="../../MyGamePavel/LIBRARY/cccc1 (5).png" sourceLastImported="1467011991" externalFileCRC32="2211858099" externalFileSize="10368" originalCompressionType="lossless" quality="50" href="cccc1 (5).png" bitmapDataHRef="M 179 1467012072.dat" frameRight="4420" frameBottom="2180"/>
+          <DOMBitmapItem name="cccc1 (6).png" itemID="5770d3e8-00000395" sourceExternalFilepath="../../MyGamePavel/LIBRARY/cccc1 (6).png" sourceLastImported="1467011984" externalFileCRC32="4089382498" externalFileSize="10361" originalCompressionType="lossless" quality="50" href="cccc1 (6).png" bitmapDataHRef="M 180 1467012072.dat" frameRight="4420" frameBottom="2180"/>
+          <DOMBitmapItem name="cccc1 (7).png" itemID="5770d3e8-00000377" sourceExternalFilepath="../../MyGamePavel/LIBRARY/cccc1 (7).png" sourceLastImported="1467011973" externalFileCRC32="2527531417" externalFileSize="9705" originalCompressionType="lossless" quality="50" href="cccc1 (7).png" bitmapDataHRef="M 174 1467012072.dat" frameRight="4420" frameBottom="2180"/>
+          <DOMBitmapItem name="cooltext191361780322214.png" itemID="5770f189-000004bb" sourceExternalFilepath="../../MyGamePavel/LIBRARY/cooltext191361780322214.png" sourceLastImported="1467019632" externalFileCRC32="21240602" externalFileSize="14568" originalCompressionType="lossless" quality="50" href="cooltext191361780322214.png" bitmapDataHRef="M 206 1467019657.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
+          <DOMBitmapItem name="ddd1 (1).png" itemID="5770dd6c-000003c4" sourceExternalFilepath="../../MyGamePavel/LIBRARY/ddd1 (1).png" sourceLastImported="1467014496" externalFileCRC32="1302401832" externalFileSize="10618" originalCompressionType="lossless" quality="50" href="ddd1 (1).png" bitmapDataHRef="M 184 1467014508.dat" frameRight="3540" frameBottom="2220"/>
+          <DOMBitmapItem name="ddd1 (2).png" itemID="5770dd6c-000003c9" sourceExternalFilepath="../../MyGamePavel/LIBRARY/ddd1 (2).png" sourceLastImported="1467014487" externalFileCRC32="312607731" externalFileSize="10811" originalCompressionType="lossless" quality="50" href="ddd1 (2).png" bitmapDataHRef="M 185 1467014508.dat" frameRight="3540" frameBottom="2240"/>
+          <DOMBitmapItem name="ddd1 (3).png" itemID="5770dd6c-000003ce" sourceExternalFilepath="../../MyGamePavel/LIBRARY/ddd1 (3).png" sourceLastImported="1467014479" externalFileCRC32="1237314409" externalFileSize="10739" originalCompressionType="lossless" quality="50" href="ddd1 (3).png" bitmapDataHRef="M 186 1467014508.dat" frameRight="3540" frameBottom="2200"/>
+          <DOMBitmapItem name="ddd1 (4).png" itemID="5770dd6c-000003d3" sourceExternalFilepath="../../MyGamePavel/LIBRARY/ddd1 (4).png" sourceLastImported="1467014470" externalFileCRC32="3380850003" externalFileSize="11005" originalCompressionType="lossless" quality="50" href="ddd1 (4).png" bitmapDataHRef="M 187 1467014508.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
+          <DOMBitmapItem name="ddd1 (5).png" itemID="5770dd6c-000003d8" sourceExternalFilepath="../../MyGamePavel/LIBRARY/ddd1 (5).png" sourceLastImported="1467014461" externalFileCRC32="3910011665" externalFileSize="10736" originalCompressionType="lossless" quality="50" href="ddd1 (5).png" bitmapDataHRef="M 188 1467014508.dat" frameRight="3540" frameBottom="2200"/>
+          <DOMBitmapItem name="ddd1 (6).png" itemID="5770dd6c-000003dd" sourceExternalFilepath="../../MyGamePavel/LIBRARY/ddd1 (6).png" sourceLastImported="1467014452" externalFileCRC32="9971876" externalFileSize="10917" originalCompressionType="lossless" quality="50" href="ddd1 (6).png" bitmapDataHRef="M 189 1467014508.dat" frameRight="3540" frameBottom="2200"/>
+          <DOMBitmapItem name="ddd1 (7).png" itemID="5770dd6c-000003e2" sourceExternalFilepath="../../MyGamePavel/LIBRARY/ddd1 (7).png" sourceLastImported="1467014443" externalFileCRC32="3914178492" externalFileSize="10733" originalCompressionType="lossless" quality="50" href="ddd1 (7).png" bitmapDataHRef="M 190 1467014508.dat" frameRight="3540" frameBottom="2200"/>
+          <DOMBitmapItem name="ddd1 (8).png" itemID="5770dd6c-000003bf" sourceExternalFilepath="../../MyGamePavel/LIBRARY/ddd1 (8).png" sourceLastImported="1467014435" externalFileCRC32="3554916152" externalFileSize="16300" originalCompressionType="lossless" quality="50" href="ddd1 (8).png" bitmapDataHRef="M 183 1467014508.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
+          <DOMBitmapItem name="Ex1.png" itemID="576babbf-0000028f" sourceExternalFilepath="../../MyGamePavel/LIBRARY/Ex1.png" sourceLastImported="1466673968" externalFileCRC32="1604668647" externalFileSize="848" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Ex1.png" bitmapDataHRef="M 17 1466674111.dat" frameRight="1800" frameBottom="1480"/>
+          <DOMBitmapItem name="Ex10.png" itemID="576babbf-000002bc" sourceExternalFilepath="../../MyGamePavel/LIBRARY/Ex10.png" sourceLastImported="1466674062" externalFileCRC32="1094389266" externalFileSize="4793" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Ex10.png" bitmapDataHRef="M 26 1466674111.dat" frameRight="2360" frameBottom="2540"/>
+          <DOMBitmapItem name="Ex11.png" itemID="576babbf-000002c1" sourceExternalFilepath="../../MyGamePavel/LIBRARY/Ex11.png" sourceLastImported="1466674073" externalFileCRC32="197591890" externalFileSize="4069" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Ex11.png" bitmapDataHRef="M 27 1466674111.dat" frameRight="2300" frameBottom="2300"/>
+          <DOMBitmapItem name="Ex12.png" itemID="576babbf-000002c6" sourceExternalFilepath="../../MyGamePavel/LIBRARY/Ex12.png" sourceLastImported="1466674082" externalFileCRC32="801524882" externalFileSize="3545" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Ex12.png" bitmapDataHRef="M 28 1466674111.dat" frameRight="2180" frameBottom="2240"/>
+          <DOMBitmapItem name="Ex2.png" itemID="576babbf-00000294" sourceExternalFilepath="../../MyGamePavel/LIBRARY/Ex2.png" sourceLastImported="1466673979" externalFileCRC32="838660659" externalFileSize="1982" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Ex2.png" bitmapDataHRef="M 18 1466674111.dat" frameRight="2020" frameBottom="1860"/>
+          <DOMBitmapItem name="Ex3.png" itemID="576babbf-00000299" sourceExternalFilepath="../../MyGamePavel/LIBRARY/Ex3.png" sourceLastImported="1466673989" externalFileCRC32="172661752" externalFileSize="2076" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Ex3.png" bitmapDataHRef="M 19 1466674111.dat" frameRight="2040" frameBottom="1740"/>
+          <DOMBitmapItem name="Ex4.png" itemID="576babbf-0000029e" sourceExternalFilepath="../../MyGamePavel/LIBRARY/Ex4.png" sourceLastImported="1466674000" externalFileCRC32="4002739824" externalFileSize="2380" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Ex4.png" bitmapDataHRef="M 20 1466674111.dat" frameRight="1940" frameBottom="1880"/>
+          <DOMBitmapItem name="Ex5.png" itemID="576babbf-000002a3" sourceExternalFilepath="../../MyGamePavel/LIBRARY/Ex5.png" sourceLastImported="1466674011" externalFileCRC32="1818572525" externalFileSize="3863" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Ex5.png" bitmapDataHRef="M 21 1466674111.dat" frameRight="2000" frameBottom="2220"/>
+          <DOMBitmapItem name="Ex6.png" itemID="576babbf-000002a8" sourceExternalFilepath="../../MyGamePavel/LIBRARY/Ex6.png" sourceLastImported="1466674021" externalFileCRC32="306378221" externalFileSize="4764" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Ex6.png" bitmapDataHRef="M 22 1466674111.dat" frameRight="2340" frameBottom="2280"/>
+          <DOMBitmapItem name="Ex7.png" itemID="576babbf-000002ad" sourceExternalFilepath="../../MyGamePavel/LIBRARY/Ex7.png" sourceLastImported="1466674030" externalFileCRC32="1468722365" externalFileSize="4946" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Ex7.png" bitmapDataHRef="M 23 1466674111.dat" frameRight="2160" frameBottom="2260"/>
+          <DOMBitmapItem name="Ex8.png" itemID="576babbf-000002b2" sourceExternalFilepath="../../MyGamePavel/LIBRARY/Ex8.png" sourceLastImported="1466674041" externalFileCRC32="3720862310" externalFileSize="4996" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Ex8.png" bitmapDataHRef="M 24 1466674111.dat" frameRight="2340" frameBottom="2280"/>
+          <DOMBitmapItem name="Ex9.png" itemID="576babbf-000002b7" sourceExternalFilepath="../../MyGamePavel/LIBRARY/Ex9.png" sourceLastImported="1466674050" externalFileCRC32="1584050596" externalFileSize="5168" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Ex9.png" bitmapDataHRef="M 25 1466674111.dat" frameRight="2440" frameBottom="2520"/>
+          <DOMBitmapItem name="ffffff1.png" itemID="5770ec03-00000444" sourceExternalFilepath="../../MyGamePavel/LIBRARY/ffffff1.png" sourceLastImported="1467018148" externalFileCRC32="4150769408" externalFileSize="21919" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="ffffff1.png" bitmapDataHRef="M 198 1467018243.dat" frameRight="10000" frameBottom="10000"/>
+          <DOMBitmapItem name="fffffff2 (1).png" itemID="5770ec02-00000421" sourceExternalFilepath="../../MyGamePavel/LIBRARY/fffffff2 (1).png" sourceLastImported="1467018138" externalFileCRC32="1873780291" externalFileSize="21094" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="fffffff2 (1).png" bitmapDataHRef="M 191 1467018242.dat" frameRight="10000" frameBottom="10000"/>
+          <DOMBitmapItem name="fffffff2 (2).png" itemID="5770ec02-00000426" sourceExternalFilepath="../../MyGamePavel/LIBRARY/fffffff2 (2).png" sourceLastImported="1467018128" externalFileCRC32="452079619" externalFileSize="20205" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="fffffff2 (2).png" bitmapDataHRef="M 192 1467018242.dat" frameRight="10000" frameBottom="10000"/>
+          <DOMBitmapItem name="fffffff2 (3).png" itemID="5770ec02-0000042b" sourceExternalFilepath="../../MyGamePavel/LIBRARY/fffffff2 (3).png" sourceLastImported="1467018119" externalFileCRC32="2119104781" externalFileSize="19423" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="fffffff2 (3).png" bitmapDataHRef="M 193 1467018242.dat" frameRight="10000" frameBottom="10000"/>
+          <DOMBitmapItem name="fffffff2 (4).png" itemID="5770ec02-00000430" sourceExternalFilepath="../../MyGamePavel/LIBRARY/fffffff2 (4).png" sourceLastImported="1467018106" externalFileCRC32="1588651205" externalFileSize="21070" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="fffffff2 (4).png" bitmapDataHRef="M 194 1467018242.dat" frameRight="10000" frameBottom="10000"/>
+          <DOMBitmapItem name="fffffff2 (5).png" itemID="5770ec02-00000435" sourceExternalFilepath="../../MyGamePavel/LIBRARY/fffffff2 (5).png" sourceLastImported="1467018096" externalFileCRC32="2114660125" externalFileSize="20433" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="fffffff2 (5).png" bitmapDataHRef="M 195 1467018242.dat" frameRight="10000" frameBottom="10000"/>
+          <DOMBitmapItem name="fffffff2 (6).png" itemID="5770ec02-0000043a" sourceExternalFilepath="../../MyGamePavel/LIBRARY/fffffff2 (6).png" sourceLastImported="1467018084" externalFileCRC32="1885192614" externalFileSize="20524" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="fffffff2 (6).png" bitmapDataHRef="M 196 1467018242.dat" frameRight="10000" frameBottom="10000"/>
+          <DOMBitmapItem name="fffffff2 (7).png" itemID="5770ec03-0000043f" sourceExternalFilepath="../../MyGamePavel/LIBRARY/fffffff2 (7).png" sourceLastImported="1467018070" externalFileCRC32="496364827" externalFileSize="21898" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="fffffff2 (7).png" bitmapDataHRef="M 197 1467018243.dat" frameRight="10000" frameBottom="10000"/>
+          <DOMBitmapItem name="fisxT.gif" itemID="576fbeab-0000027f" sourceExternalFilepath="../../MyGamePavel/LIBRARY/fisxT.gif" sourceLastImported="1466940997" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="fisxT.gif" bitmapDataHRef="M 118 1466941099.dat" frameRight="12800" frameBottom="7200"/>
+          <DOMSoundItem name="FonMusic5.wav" itemID="57710456-000005c2" linkageExportForAS="true" linkageIdentifier="fm5" sourceExternalFilepath="../../MyGamePavel/LIBRARY/FonMusic5.wav" sourceLastImported="1491817622" externalFileCRC32="2048864356" externalFileSize="6584208" href="FonMusic5.wav" soundDataHRef="M 221 1467024470.dat" format="22kHz 16bit Mono" sampleCount="3292065"/>
+          <DOMBitmapItem name="gggg1.png" itemID="5770edbc-0000046d" sourceExternalFilepath="../../MyGamePavel/LIBRARY/gggg1.png" sourceLastImported="1467018653" externalFileCRC32="1696428978" externalFileSize="22727" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="gggg1.png" bitmapDataHRef="M 199 1467018684.dat" frameRight="10000" frameBottom="8900"/>
+          <DOMSoundItem name="IgrokExplosion.wav" itemID="576ed8a4-0000036e" linkageExportForAS="true" linkageIdentifier="sFall" sourceExternalFilepath="../../MyGamePavel/LIBRARY/IgrokExplosion.wav" sourceLastImported="1466936932" externalFileCRC32="2091444492" externalFileSize="416684" href="IgrokExplosion.wav" soundDataHRef="M 113 1466882212.dat" format="44kHz 16bit Stereo" sampleCount="104160"/>
+          <DOMBitmapItem name="jjjjjj1 (1).png" itemID="5770ef50-00000482" sourceExternalFilepath="../../MyGamePavel/LIBRARY/jjjjjj1 (1).png" sourceLastImported="1467019059" externalFileCRC32="3690262247" externalFileSize="14065" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="jjjjjj1 (1).png" bitmapDataHRef="M 200 1467019088.dat" frameRight="8000" frameBottom="8000"/>
+          <DOMBitmapItem name="jjjjjj1 (2).png" itemID="5770ef50-00000487" sourceExternalFilepath="../../MyGamePavel/LIBRARY/jjjjjj1 (2).png" sourceLastImported="1467019049" externalFileCRC32="1614321362" externalFileSize="14660" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="jjjjjj1 (2).png" bitmapDataHRef="M 201 1467019088.dat" frameRight="8000" frameBottom="8000"/>
+          <DOMBitmapItem name="jjjjjj1 (3).png" itemID="5770ef50-0000048c" sourceExternalFilepath="../../MyGamePavel/LIBRARY/jjjjjj1 (3).png" sourceLastImported="1467019039" externalFileCRC32="1248977198" externalFileSize="15643" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="jjjjjj1 (3).png" bitmapDataHRef="M 202 1467019088.dat" frameRight="8000" frameBottom="8000"/>
+          <DOMBitmapItem name="jjjjjj1 (4).png" itemID="5770ef51-00000491" sourceExternalFilepath="../../MyGamePavel/LIBRARY/jjjjjj1 (4).png" sourceLastImported="1467019030" externalFileCRC32="2606802286" externalFileSize="16079" originalCompressionType="lossless" quality="50" href="jjjjjj1 (4).png" bitmapDataHRef="M 203 1467019089.dat" frameRight="8000" frameBottom="8000"/>
+          <DOMBitmapItem name="jjjjjj1 (5).png" itemID="5770ef51-00000496" sourceExternalFilepath="../../MyGamePavel/LIBRARY/jjjjjj1 (5).png" sourceLastImported="1467019020" externalFileCRC32="318479574" externalFileSize="14778" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="jjjjjj1 (5).png" bitmapDataHRef="M 204 1467019089.dat" frameRight="8000" frameBottom="8000"/>
+          <DOMBitmapItem name="jjjjjj1 (6).png" itemID="5770ef51-0000049b" sourceExternalFilepath="../../MyGamePavel/LIBRARY/jjjjjj1 (6).png" sourceLastImported="1467019010" externalFileCRC32="3109611038" externalFileSize="15000" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="jjjjjj1 (6).png" bitmapDataHRef="M 205 1467019089.dat" frameRight="8000" frameBottom="8000"/>
+          <DOMBitmapItem name="MONEY.png" itemID="576d31ee-00000412" sourceExternalFilepath="../../MyGamePavel/LIBRARY/MONEY.png" sourceLastImported="1466773998" externalFileCRC32="3887300115" externalFileSize="26097" originalCompressionType="lossless" quality="50" href="MONEY.png" bitmapDataHRef="M 42 1466768863.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
+          <DOMSoundItem name="musicFon2.wav" itemID="576faee1-0000026e" linkageExportForAS="true" linkageIdentifier="sBg2" sourceExternalFilepath="../../MyGamePavel/LIBRARY/musicFon2.wav" sourceLastImported="1491817623" externalFileCRC32="434653778" externalFileSize="10385438" href="musicFon2.wav" soundDataHRef="M 114 1466936448.dat" format="22kHz 16bit Mono" sampleCount="5192628"/>
+          <DOMBitmapItem name="oooo1 (1).png" itemID="57723917-00000482" sourceExternalFilepath="../../MyGamePavel/LIBRARY/oooo1 (1).png" sourceLastImported="1467103436" externalFileCRC32="2854197225" externalFileSize="126816" originalCompressionType="lossless" quality="50" href="oooo1 (1).png" bitmapDataHRef="M 408 1467103511.dat" frameRight="9600" frameBottom="9620"/>
+          <DOMBitmapItem name="oooo1 (10).png" itemID="5772391a-000004af" sourceExternalFilepath="../../MyGamePavel/LIBRARY/oooo1 (10).png" sourceLastImported="1467103349" externalFileCRC32="3834170522" externalFileSize="135086" originalCompressionType="lossless" quality="50" href="oooo1 (10).png" bitmapDataHRef="M 417 1467103514.dat" frameRight="9580" frameBottom="9620"/>
+          <DOMBitmapItem name="oooo1 (11).png" itemID="5772391a-000004b4" sourceExternalFilepath="../../MyGamePavel/LIBRARY/oooo1 (11).png" sourceLastImported="1467103337" externalFileCRC32="1947070797" externalFileSize="136722" originalCompressionType="lossless" quality="50" href="oooo1 (11).png" bitmapDataHRef="M 418 1467103514.dat" frameRight="9600" frameBottom="9600"/>
+          <DOMBitmapItem name="oooo1 (12).png" itemID="5772391a-000004b9" sourceExternalFilepath="../../MyGamePavel/LIBRARY/oooo1 (12).png" sourceLastImported="1467103324" externalFileCRC32="2947881548" externalFileSize="136184" originalCompressionType="lossless" quality="50" href="oooo1 (12).png" bitmapDataHRef="M 419 1467103514.dat" frameRight="9600" frameBottom="9600"/>
+          <DOMBitmapItem name="oooo1 (13).png" itemID="5772391b-000004be" sourceExternalFilepath="../../MyGamePavel/LIBRARY/oooo1 (13).png" sourceLastImported="1467103308" externalFileCRC32="1657394693" externalFileSize="134625" originalCompressionType="lossless" quality="50" href="oooo1 (13).png" bitmapDataHRef="M 420 1467103515.dat" frameRight="9600" frameBottom="9620"/>
+          <DOMBitmapItem name="oooo1 (14).png" itemID="5772391b-000004c3" sourceExternalFilepath="../../MyGamePavel/LIBRARY/oooo1 (14).png" sourceLastImported="1467103289" externalFileCRC32="2900200829" externalFileSize="133067" originalCompressionType="lossless" quality="50" href="oooo1 (14).png" bitmapDataHRef="M 421 1467103515.dat" frameRight="9600" frameBottom="9600"/>
+          <DOMBitmapItem name="oooo1 (15).png" itemID="5772391b-000004c8" sourceExternalFilepath="../../MyGamePavel/LIBRARY/oooo1 (15).png" sourceLastImported="1467103272" externalFileCRC32="987902740" externalFileSize="131172" originalCompressionType="lossless" quality="50" href="oooo1 (15).png" bitmapDataHRef="M 422 1467103515.dat" frameRight="9600" frameBottom="9620"/>
+          <DOMBitmapItem name="oooo1 (16).png" itemID="5772391c-000004cd" sourceExternalFilepath="../../MyGamePavel/LIBRARY/oooo1 (16).png" sourceLastImported="1467103257" externalFileCRC32="1346064958" externalFileSize="128885" originalCompressionType="lossless" quality="50" href="oooo1 (16).png" bitmapDataHRef="M 423 1467103516.dat" frameRight="9600" frameBottom="9620"/>
+          <DOMBitmapItem name="oooo1 (17).png" itemID="5772391c-000004d2" sourceExternalFilepath="../../MyGamePavel/LIBRARY/oooo1 (17).png" sourceLastImported="1467103241" externalFileCRC32="1010959740" externalFileSize="123867" originalCompressionType="lossless" quality="50" href="oooo1 (17).png" bitmapDataHRef="M 424 1467103516.dat" frameRight="9600" frameBottom="9600"/>
+          <DOMBitmapItem name="oooo1 (18).png" itemID="5772391c-000004d7" sourceExternalFilepath="../../MyGamePavel/LIBRARY/oooo1 (18).png" sourceLastImported="1467103222" externalFileCRC32="3964805936" externalFileSize="121491" originalCompressionType="lossless" quality="50" href="oooo1 (18).png" bitmapDataHRef="M 425 1467103516.dat" frameRight="9600" frameBottom="9620"/>
+          <DOMBitmapItem name="oooo1 (19).png" itemID="5772391d-000004dc" sourceExternalFilepath="../../MyGamePavel/LIBRARY/oooo1 (19).png" sourceLastImported="1467103185" externalFileCRC32="1993368748" externalFileSize="121541" originalCompressionType="lossless" quality="50" href="oooo1 (19).png" bitmapDataHRef="M 426 1467103517.dat" frameRight="9580" frameBottom="9600"/>
+          <DOMBitmapItem name="oooo1 (2).png" itemID="57723917-00000487" sourceExternalFilepath="../../MyGamePavel/LIBRARY/oooo1 (2).png" sourceLastImported="1467103423" externalFileCRC32="3048441890" externalFileSize="127914" originalCompressionType="lossless" quality="50" href="oooo1 (2).png" bitmapDataHRef="M 409 1467103511.dat" frameRight="9600" frameBottom="9620"/>
+          <DOMBitmapItem name="oooo1 (20).png" itemID="5772391d-000004e1" sourceExternalFilepath="../../MyGamePavel/LIBRARY/oooo1 (20).png" sourceLastImported="1467103166" externalFileCRC32="2350258975" externalFileSize="126100" originalCompressionType="lossless" quality="50" href="oooo1 (20).png" bitmapDataHRef="M 427 1467103517.dat" frameRight="9600" frameBottom="9600"/>
+          <DOMBitmapItem name="oooo1 (21).png" itemID="5772391d-000004e6" sourceExternalFilepath="../../MyGamePavel/LIBRARY/oooo1 (21).png" sourceLastImported="1467103150" externalFileCRC32="314221611" externalFileSize="128622" originalCompressionType="lossless" quality="50" href="oooo1 (21).png" bitmapDataHRef="M 428 1467103517.dat" frameRight="9600" frameBottom="9620"/>
+          <DOMBitmapItem name="oooo1 (22).png" itemID="5772391e-000004eb" sourceExternalFilepath="../../MyGamePavel/LIBRARY/oooo1 (22).png" sourceLastImported="1467103130" externalFileCRC32="4085849099" externalFileSize="125593" originalCompressionType="lossless" quality="50" href="oooo1 (22).png" bitmapDataHRef="M 429 1467103518.dat" frameRight="9600" frameBottom="9600"/>
+          <DOMBitmapItem name="oooo1 (23).png" itemID="5772391e-000004f0" sourceExternalFilepath="../../MyGamePavel/LIBRARY/oooo1 (23).png" sourceLastImported="1467103107" externalFileCRC32="3361833581" externalFileSize="124325" originalCompressionType="lossless" quality="50" href="oooo1 (23).png" bitmapDataHRef="M 430 1467103518.dat" frameRight="9600" frameBottom="9620"/>
+          <DOMBitmapItem name="oooo1 (24).png" itemID="5772391f-000004f5" sourceExternalFilepath="../../MyGamePavel/LIBRARY/oooo1 (24).png" sourceLastImported="1467103025" externalFileCRC32="3681719315" externalFileSize="124607" originalCompressionType="lossless" quality="50" href="oooo1 (24).png" bitmapDataHRef="M 431 1467103519.dat" frameRight="9600" frameBottom="9580"/>
+          <DOMBitmapItem name="oooo1 (3).png" itemID="57723918-0000048c" sourceExternalFilepath="../../MyGamePavel/LIBRARY/oooo1 (3).png" sourceLastImported="1467103411" externalFileCRC32="4207706679" externalFileSize="130767" originalCompressionType="lossless" quality="50" href="oooo1 (3).png" bitmapDataHRef="M 410 1467103512.dat" frameRight="9600" frameBottom="9640"/>
+          <DOMBitmapItem name="oooo1 (4).png" itemID="57723918-00000491" sourceExternalFilepath="../../MyGamePavel/LIBRARY/oooo1 (4).png" sourceLastImported="1467103401" externalFileCRC32="1266993438" externalFileSize="134920" originalCompressionType="lossless" quality="50" href="oooo1 (4).png" bitmapDataHRef="M 411 1467103512.dat" frameRight="9600" frameBottom="9600"/>
+          <DOMBitmapItem name="oooo1 (5).png" itemID="57723918-00000496" sourceExternalFilepath="../../MyGamePavel/LIBRARY/oooo1 (5).png" sourceLastImported="1467103391" externalFileCRC32="1310051614" externalFileSize="130806" originalCompressionType="lossless" quality="50" href="oooo1 (5).png" bitmapDataHRef="M 412 1467103512.dat" frameRight="9600" frameBottom="9620"/>
+          <DOMBitmapItem name="oooo1 (6).png" itemID="57723919-0000049b" sourceExternalFilepath="../../MyGamePavel/LIBRARY/oooo1 (6).png" sourceLastImported="1467103381" externalFileCRC32="2732571182" externalFileSize="127338" originalCompressionType="lossless" quality="50" href="oooo1 (6).png" bitmapDataHRef="M 413 1467103513.dat" frameRight="9600" frameBottom="9600"/>
+          <DOMBitmapItem name="oooo1 (7).png" itemID="57723919-000004a0" sourceExternalFilepath="../../MyGamePavel/LIBRARY/oooo1 (7).png" sourceLastImported="1467103372" externalFileCRC32="419776892" externalFileSize="130038" originalCompressionType="lossless" quality="50" href="oooo1 (7).png" bitmapDataHRef="M 414 1467103513.dat" frameRight="9600" frameBottom="9600"/>
+          <DOMBitmapItem name="oooo1 (8).png" itemID="57723919-000004a5" sourceExternalFilepath="../../MyGamePavel/LIBRARY/oooo1 (8).png" sourceLastImported="1467103045" externalFileCRC32="3235345089" externalFileSize="136620" originalCompressionType="lossless" quality="50" href="oooo1 (8).png" bitmapDataHRef="M 415 1467103513.dat" frameRight="9580" frameBottom="9580"/>
+          <DOMBitmapItem name="oooo1 (9).png" itemID="57723919-000004aa" sourceExternalFilepath="../../MyGamePavel/LIBRARY/oooo1 (9).png" sourceLastImported="1467103363" externalFileCRC32="3973188934" externalFileSize="135650" originalCompressionType="lossless" quality="50" href="oooo1 (9).png" bitmapDataHRef="M 416 1467103513.dat" frameRight="9600" frameBottom="9620"/>
+          <DOMSoundItem name="powerBonus.wav" itemID="576edd56-0000038c" linkageExportForAS="true" linkageIdentifier="sPower" sourceExternalFilepath="../../MyGamePavel/LIBRARY/powerBonus.wav" sourceLastImported="1466885380" externalFileCRC32="3365765816" externalFileSize="88278" href="powerBonus.wav" soundDataHRef="M 121 1466883414.dat" format="44kHz 16bit Stereo" sampleCount="22050"/>
+          <DOMBitmapItem name="qqqq1 (1).png" itemID="577107c6-00000615" sourceExternalFilepath="../../MyGamePavel/LIBRARY/qqqq1 (1).png" sourceLastImported="1467025332" externalFileCRC32="3630145675" externalFileSize="7849" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="qqqq1 (1).png" bitmapDataHRef="M 227 1467025350.dat" frameRight="15720" frameBottom="10200"/>
+          <DOMBitmapItem name="qqqq1 (2).png" itemID="577107c6-0000061a" sourceExternalFilepath="../../MyGamePavel/LIBRARY/qqqq1 (2).png" sourceLastImported="1467025322" externalFileCRC32="999620239" externalFileSize="7850" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="qqqq1 (2).png" bitmapDataHRef="M 228 1467025350.dat" frameRight="15720" frameBottom="10200"/>
+          <DOMBitmapItem name="qqqqqq11 (1).png" itemID="57724c69-0000062f" sourceExternalFilepath="../../MyGamePavel/LIBRARY/qqqqqq11 (1).png" sourceLastImported="1467108412" externalFileCRC32="280122656" externalFileSize="101468" originalCompressionType="lossless" quality="50" href="qqqqqq11 (1).png" bitmapDataHRef="M 435 1467108457.dat" frameRight="10000" frameBottom="7240"/>
+          <DOMBitmapItem name="qqqqqq11 (2).png" itemID="57724c69-00000634" sourceExternalFilepath="../../MyGamePavel/LIBRARY/qqqqqq11 (2).png" sourceLastImported="1467108408" externalFileCRC32="434446267" externalFileSize="100755" originalCompressionType="lossless" quality="50" href="qqqqqq11 (2).png" bitmapDataHRef="M 436 1467108457.dat" frameRight="10000" frameBottom="7240"/>
+          <DOMBitmapItem name="qqqqqq11 (3).png" itemID="57724c69-00000639" sourceExternalFilepath="../../MyGamePavel/LIBRARY/qqqqqq11 (3).png" sourceLastImported="1467108402" externalFileCRC32="1796077425" externalFileSize="101912" originalCompressionType="lossless" quality="50" href="qqqqqq11 (3).png" bitmapDataHRef="M 437 1467108457.dat" frameRight="10000" frameBottom="7240"/>
+          <DOMBitmapItem name="qqqqqq11 (4).png" itemID="57724c69-0000063e" sourceExternalFilepath="../../MyGamePavel/LIBRARY/qqqqqq11 (4).png" sourceLastImported="1467108397" externalFileCRC32="1609284625" externalFileSize="101270" originalCompressionType="lossless" quality="50" href="qqqqqq11 (4).png" bitmapDataHRef="M 438 1467108457.dat" frameRight="10000" frameBottom="7240"/>
+          <DOMBitmapItem name="qqqqqq11 (5).png" itemID="57724c6a-00000643" sourceExternalFilepath="../../MyGamePavel/LIBRARY/qqqqqq11 (5).png" sourceLastImported="1467108392" externalFileCRC32="3971874834" externalFileSize="100163" originalCompressionType="lossless" quality="50" href="qqqqqq11 (5).png" bitmapDataHRef="M 439 1467108458.dat" frameRight="10000" frameBottom="7240"/>
+          <DOMBitmapItem name="qqqqqq11 (6).png" itemID="57724c6a-00000648" sourceExternalFilepath="../../MyGamePavel/LIBRARY/qqqqqq11 (6).png" sourceLastImported="1467108387" externalFileCRC32="2256875197" externalFileSize="102038" originalCompressionType="lossless" quality="50" href="qqqqqq11 (6).png" bitmapDataHRef="M 440 1467108458.dat" frameRight="10000" frameBottom="7240"/>
+          <DOMBitmapItem name="rock_type.png" itemID="576e4e72-00000295" sourceExternalFilepath="../../MyGamePavel/LIBRARY/rock_type.png" sourceLastImported="1466846834" externalFileCRC32="2329635920" externalFileSize="6866" originalCompressionType="lossless" quality="50" href="rock_type.png" bitmapDataHRef="M 83 1466846807.dat" frameRight="1280" frameBottom="1280"/>
+          <DOMBitmapItem name="rock_type_D0001.png" itemID="576e4e57-0000024a" sourceExternalFilepath="../../MyGamePavel/LIBRARY/rock_type_D0001.png" sourceLastImported="1312986998" externalFileCRC32="2450995794" externalFileSize="6975" originalCompressionType="lossless" quality="50" href="rock_type_D0001.png" bitmapDataHRef="M 84 1466846807.dat" frameRight="1280" frameBottom="1280"/>
+          <DOMBitmapItem name="rock_type_D0002.png" itemID="576e4e57-0000024f" sourceExternalFilepath="../../MyGamePavel/LIBRARY/rock_type_D0002.png" sourceLastImported="1312986998" externalFileCRC32="2785844306" externalFileSize="6954" originalCompressionType="lossless" quality="50" href="rock_type_D0002.png" bitmapDataHRef="M 85 1466846807.dat" frameRight="1280" frameBottom="1280"/>
+          <DOMBitmapItem name="rock_type_D0003.png" itemID="576e4e57-00000254" sourceExternalFilepath="../../MyGamePavel/LIBRARY/rock_type_D0003.png" sourceLastImported="1312986998" externalFileCRC32="2368097962" externalFileSize="6901" originalCompressionType="lossless" quality="50" href="rock_type_D0003.png" bitmapDataHRef="M 86 1466846807.dat" frameRight="1280" frameBottom="1280"/>
+          <DOMBitmapItem name="rock_type_D0004.png" itemID="576e4e57-00000259" sourceExternalFilepath="../../MyGamePavel/LIBRARY/rock_type_D0004.png" sourceLastImported="1312987000" externalFileCRC32="2649194604" externalFileSize="6680" originalCompressionType="lossless" quality="50" href="rock_type_D0004.png" bitmapDataHRef="M 87 1466846807.dat" frameRight="1280" frameBottom="1280"/>
+          <DOMBitmapItem name="rock_type_D0005.png" itemID="576e4e57-0000025e" sourceExternalFilepath="../../MyGamePavel/LIBRARY/rock_type_D0005.png" sourceLastImported="1312987000" externalFileCRC32="3532867694" externalFileSize="6615" originalCompressionType="lossless" quality="50" href="rock_type_D0005.png" bitmapDataHRef="M 88 1466846807.dat" frameRight="1280" frameBottom="1280"/>
+          <DOMBitmapItem name="rock_type_D0006.png" itemID="576e4e57-00000263" sourceExternalFilepath="../../MyGamePavel/LIBRARY/rock_type_D0006.png" sourceLastImported="1312987000" externalFileCRC32="3570777867" externalFileSize="6555" originalCompressionType="lossless" quality="50" href="rock_type_D0006.png" bitmapDataHRef="M 89 1466846807.dat" frameRight="1280" frameBottom="1280"/>
+          <DOMBitmapItem name="rock_type_D0007.png" itemID="576e4e57-00000268" sourceExternalFilepath="../../MyGamePavel/LIBRARY/rock_type_D0007.png" sourceLastImported="1312987000" externalFileCRC32="3403260849" externalFileSize="6579" originalCompressionType="lossless" quality="50" href="rock_type_D0007.png" bitmapDataHRef="M 90 1466846807.dat" frameRight="1280" frameBottom="1280"/>
+          <DOMBitmapItem name="rock_type_D0008.png" itemID="576e4e57-0000026d" sourceExternalFilepath="../../MyGamePavel/LIBRARY/rock_type_D0008.png" sourceLastImported="1312987000" externalFileCRC32="835217717" externalFileSize="6594" originalCompressionType="lossless" quality="50" href="rock_type_D0008.png" bitmapDataHRef="M 91 1466846807.dat" frameRight="1280" frameBottom="1280"/>
+          <DOMBitmapItem name="rock_type_D0009.png" itemID="576e4e57-00000272" sourceExternalFilepath="../../MyGamePavel/LIBRARY/rock_type_D0009.png" sourceLastImported="1312987000" externalFileCRC32="2378230952" externalFileSize="6769" originalCompressionType="lossless" quality="50" href="rock_type_D0009.png" bitmapDataHRef="M 92 1466846807.dat" frameRight="1280" frameBottom="1280"/>
+          <DOMBitmapItem name="rock_type_D0010.png" itemID="576e4e57-00000277" sourceExternalFilepath="../../MyGamePavel/LIBRARY/rock_type_D0010.png" sourceLastImported="1312987000" externalFileCRC32="1380427724" externalFileSize="6733" originalCompressionType="lossless" quality="50" href="rock_type_D0010.png" bitmapDataHRef="M 93 1466846807.dat" frameRight="1280" frameBottom="1280"/>
+          <DOMBitmapItem name="rock_type_D0011.png" itemID="576e4e57-0000027c" sourceExternalFilepath="../../MyGamePavel/LIBRARY/rock_type_D0011.png" sourceLastImported="1312987000" externalFileCRC32="3509872888" externalFileSize="6651" originalCompressionType="lossless" quality="50" href="rock_type_D0011.png" bitmapDataHRef="M 94 1466846807.dat" frameRight="1280" frameBottom="1280"/>
+          <DOMBitmapItem name="rock_type_D0012.png" itemID="576e4e57-00000281" sourceExternalFilepath="../../MyGamePavel/LIBRARY/rock_type_D0012.png" sourceLastImported="1312987000" externalFileCRC32="1303520441" externalFileSize="6547" originalCompressionType="lossless" quality="50" href="rock_type_D0012.png" bitmapDataHRef="M 95 1466846807.dat" frameRight="1280" frameBottom="1280"/>
+          <DOMBitmapItem name="rock_type_D0013.png" itemID="576e4e57-00000286" sourceExternalFilepath="../../MyGamePavel/LIBRARY/rock_type_D0013.png" sourceLastImported="1312987000" externalFileCRC32="1045664410" externalFileSize="6350" originalCompressionType="lossless" quality="50" href="rock_type_D0013.png" bitmapDataHRef="M 96 1466846807.dat" frameRight="1280" frameBottom="1280"/>
+          <DOMBitmapItem name="rock_type_D0014.png" itemID="576e4e57-0000028b" sourceExternalFilepath="../../MyGamePavel/LIBRARY/rock_type_D0014.png" sourceLastImported="1312987002" externalFileCRC32="2280181186" externalFileSize="6241" originalCompressionType="lossless" quality="50" href="rock_type_D0014.png" bitmapDataHRef="M 97 1466846807.dat" frameRight="1280" frameBottom="1280"/>
+          <DOMBitmapItem name="rock_type_D0015.png" itemID="576e4e57-00000290" sourceExternalFilepath="../../MyGamePavel/LIBRARY/rock_type_D0015.png" sourceLastImported="1312987002" externalFileCRC32="3328384311" externalFileSize="6613" originalCompressionType="lossless" quality="50" href="rock_type_D0015.png" bitmapDataHRef="M 98 1466846807.dat" frameRight="1280" frameBottom="1280"/>
+          <DOMBitmapItem name="rrrr1 (1).png" itemID="5770f979-00000520" sourceExternalFilepath="../../MyGamePavel/LIBRARY/rrrr1 (1).png" sourceLastImported="1467021649" externalFileCRC32="2071416252" externalFileSize="17643" originalCompressionType="lossless" quality="50" href="rrrr1 (1).png" bitmapDataHRef="M 216 1467021689.dat" frameRight="7140" frameBottom="2420"/>
+          <DOMBitmapItem name="rrrr1 (2).png" itemID="5770f979-00000525" sourceExternalFilepath="../../MyGamePavel/LIBRARY/rrrr1 (2).png" sourceLastImported="1467021641" externalFileCRC32="319719869" externalFileSize="19008" originalCompressionType="lossless" quality="50" href="rrrr1 (2).png" bitmapDataHRef="M 217 1467021689.dat" frameRight="7140" frameBottom="2420"/>
+          <DOMBitmapItem name="rrrr1 (3).png" itemID="5770f979-0000052a" sourceExternalFilepath="../../MyGamePavel/LIBRARY/rrrr1 (3).png" sourceLastImported="1467021630" externalFileCRC32="4057838983" externalFileSize="18411" originalCompressionType="lossless" quality="50" href="rrrr1 (3).png" bitmapDataHRef="M 218 1467021689.dat" frameRight="7140" frameBottom="2420"/>
+          <DOMBitmapItem name="rrrr1 (4).png" itemID="5770f979-0000052f" sourceExternalFilepath="../../MyGamePavel/LIBRARY/rrrr1 (4).png" sourceLastImported="1467021621" externalFileCRC32="2886472199" externalFileSize="18528" originalCompressionType="lossless" quality="50" href="rrrr1 (4).png" bitmapDataHRef="M 219 1467021689.dat" frameRight="7140" frameBottom="2420"/>
+          <DOMBitmapItem name="rrrr1 (5).png" itemID="5770f979-00000534" sourceExternalFilepath="../../MyGamePavel/LIBRARY/rrrr1 (5).png" sourceLastImported="1467021612" externalFileCRC32="2886472199" externalFileSize="18528" originalCompressionType="lossless" quality="50" href="rrrr1 (5).png" bitmapDataHRef="M 220 1467021689.dat" frameRight="7140" frameBottom="2420"/>
+          <DOMBitmapItem name="rrrr1 (6).png" itemID="5770f979-00000516" sourceExternalFilepath="../../MyGamePavel/LIBRARY/rrrr1 (6).png" sourceLastImported="1467021603" externalFileCRC32="1560020981" externalFileSize="18410" originalCompressionType="lossless" quality="50" href="rrrr1 (6).png" bitmapDataHRef="M 214 1467021689.dat" frameRight="7140" frameBottom="2420"/>
+          <DOMBitmapItem name="rrrr1 (7).png" itemID="5770f979-0000051b" sourceExternalFilepath="../../MyGamePavel/LIBRARY/rrrr1 (7).png" sourceLastImported="1467021593" externalFileCRC32="380909395" externalFileSize="19133" originalCompressionType="lossless" quality="50" href="rrrr1 (7).png" bitmapDataHRef="M 215 1467021689.dat" frameRight="7140" frameBottom="2420"/>
+          <DOMBitmapItem name="shipVrag.png" itemID="576cd216-000001f8" sourceExternalFilepath="../../MyGamePavel/LIBRARY/shipVrag.png" sourceLastImported="1466711683" externalFileCRC32="1461740176" externalFileSize="50828" originalCompressionType="lossless" quality="50" href="shipVrag.png" bitmapDataHRef="M 21 1466749462.dat" frameRight="3640" frameBottom="3200"/>
+          <DOMBitmapItem name="shipVrag1.png" itemID="576cd216-000001fd" sourceExternalFilepath="../../MyGamePavel/LIBRARY/shipVrag1.png" sourceLastImported="1466749433" externalFileCRC32="839864272" externalFileSize="6589" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="shipVrag1.png" bitmapDataHRef="M 22 1466749462.dat" frameRight="3540" frameBottom="2980"/>
+          <DOMBitmapItem name="shipVrag2.png" itemID="576cd649-00000245" sourceExternalFilepath="../../MyGamePavel/LIBRARY/shipVrag2.png" sourceLastImported="1466750526" externalFileCRC32="2051447709" externalFileSize="6839" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="shipVrag2.png" bitmapDataHRef="M 23 1466750537.dat" frameRight="3920" frameBottom="3140"/>
+          <DOMSoundItem name="sLaser1.wav" itemID="576fb42a-00000275" linkageExportForAS="true" linkageIdentifier="sL1" sourceExternalFilepath="../../MyGamePavel/LIBRARY/sLaser1.wav" sourceLastImported="1466938423" externalFileCRC32="3124011855" externalFileSize="176478" href="sLaser1.wav" soundDataHRef="M 117 1466938410.dat" format="44kHz 16bit Stereo" sampleCount="44100"/>
+          <DOMBitmapItem name="upr.png" itemID="576fc6a6-000002d0" sourceExternalFilepath="../../MyGamePavel/LIBRARY/upr.png" sourceLastImported="1466943130" externalFileCRC32="1179043722" externalFileSize="9165" originalCompressionType="lossless" quality="50" href="upr.png" bitmapDataHRef="M 130 1466943142.dat" frameRight="3960" frameBottom="1180"/>
+          <DOMSoundItem name="VistrelVraga.wav" itemID="576ed9b8-00000384" linkageExportForAS="true" linkageIdentifier="sLaser2" sourceExternalFilepath="../../MyGamePavel/LIBRARY/VistrelVraga.wav" sourceLastImported="1466936829" externalFileCRC32="3746255219" externalFileSize="76594" href="VistrelVraga.wav" soundDataHRef="M 119 1466882488.dat" format="44kHz 16bit Stereo" sampleCount="19129"/>
+          <DOMSoundItem name="VragExplosion.wav" itemID="576eda90-00000388" linkageExportForAS="true" linkageIdentifier="sHit" sourceExternalFilepath="../../MyGamePavel/LIBRARY/VragExplosion.wav" sourceLastImported="1466936815" externalFileCRC32="616348368" externalFileSize="605006" href="VragExplosion.wav" soundDataHRef="M 120 1466882704.dat" format="44kHz 16bit Stereo" sampleCount="151200"/>
+          <DOMBitmapItem name="vvvv1 (1).png" itemID="5770f448-000004e3" sourceExternalFilepath="../../MyGamePavel/LIBRARY/vvvv1 (1).png" sourceLastImported="1467020332" externalFileCRC32="455525644" externalFileSize="9558" originalCompressionType="lossless" quality="50" href="vvvv1 (1).png" bitmapDataHRef="M 213 1467020360.dat" frameRight="5440" frameBottom="2080"/>
+          <DOMBitmapItem name="vvvv1 (2).png" itemID="5770f448-000004c5" sourceExternalFilepath="../../MyGamePavel/LIBRARY/vvvv1 (2).png" sourceLastImported="1467020325" externalFileCRC32="810803194" externalFileSize="11592" originalCompressionType="lossless" quality="50" href="vvvv1 (2).png" bitmapDataHRef="M 207 1467020360.dat" frameRight="5440" frameBottom="2080"/>
+          <DOMBitmapItem name="vvvv1 (3).png" itemID="5770f448-000004ca" sourceExternalFilepath="../../MyGamePavel/LIBRARY/vvvv1 (3).png" sourceLastImported="1467020314" externalFileCRC32="4020009907" externalFileSize="12158" originalCompressionType="lossless" quality="50" href="vvvv1 (3).png" bitmapDataHRef="M 208 1467020360.dat" frameRight="5440" frameBottom="2080"/>
+          <DOMBitmapItem name="vvvv1 (4).png" itemID="5770f448-000004cf" sourceExternalFilepath="../../MyGamePavel/LIBRARY/vvvv1 (4).png" sourceLastImported="1467020305" externalFileCRC32="3282610693" externalFileSize="11929" originalCompressionType="lossless" quality="50" href="vvvv1 (4).png" bitmapDataHRef="M 209 1467020360.dat" frameRight="5440" frameBottom="2080"/>
+          <DOMBitmapItem name="vvvv1 (5).png" itemID="5770f448-000004d4" sourceExternalFilepath="../../MyGamePavel/LIBRARY/vvvv1 (5).png" sourceLastImported="1467020296" externalFileCRC32="3422521731" externalFileSize="12058" originalCompressionType="lossless" quality="50" href="vvvv1 (5).png" bitmapDataHRef="M 210 1467020360.dat" frameRight="5440" frameBottom="2080"/>
+          <DOMBitmapItem name="vvvv1 (6).png" itemID="5770f448-000004d9" sourceExternalFilepath="../../MyGamePavel/LIBRARY/vvvv1 (6).png" sourceLastImported="1467020288" externalFileCRC32="4020009907" externalFileSize="12158" originalCompressionType="lossless" quality="50" href="vvvv1 (6).png" bitmapDataHRef="M 211 1467020360.dat" frameRight="5440" frameBottom="2080"/>
+          <DOMBitmapItem name="vvvv1 (7).png" itemID="5770f448-000004de" sourceExternalFilepath="../../MyGamePavel/LIBRARY/vvvv1 (7).png" sourceLastImported="1467020279" externalFileCRC32="810803194" externalFileSize="11592" originalCompressionType="lossless" quality="50" href="vvvv1 (7).png" bitmapDataHRef="M 212 1467020360.dat" frameRight="5440" frameBottom="2080"/>
+          <DOMBitmapItem name="yyyy1 (1).png" itemID="577106a0-000005f8" sourceExternalFilepath="../../MyGamePavel/LIBRARY/yyyy1 (1).png" sourceLastImported="1467025024" externalFileCRC32="1266664266" externalFileSize="20986" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="yyyy1 (1).png" bitmapDataHRef="M 226 1467025056.dat" frameRight="8000" frameBottom="8000"/>
+          <DOMBitmapItem name="yyyy1 (2).png" itemID="577106a0-000005e4" sourceExternalFilepath="../../MyGamePavel/LIBRARY/yyyy1 (2).png" sourceLastImported="1467025013" externalFileCRC32="2480771366" externalFileSize="19519" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="yyyy1 (2).png" bitmapDataHRef="M 222 1467025056.dat" frameRight="8000" frameBottom="8000"/>
+          <DOMBitmapItem name="yyyy1 (3).png" itemID="577106a0-000005e9" sourceExternalFilepath="../../MyGamePavel/LIBRARY/yyyy1 (3).png" sourceLastImported="1467025005" externalFileCRC32="4105293142" externalFileSize="20485" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="yyyy1 (3).png" bitmapDataHRef="M 223 1467025056.dat" frameRight="8000" frameBottom="8000"/>
+          <DOMBitmapItem name="yyyy1 (4).png" itemID="577106a0-000005ee" sourceExternalFilepath="../../MyGamePavel/LIBRARY/yyyy1 (4).png" sourceLastImported="1467024997" externalFileCRC32="1488691106" externalFileSize="19845" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="yyyy1 (4).png" bitmapDataHRef="M 224 1467025056.dat" frameRight="8000" frameBottom="8000"/>
+          <DOMBitmapItem name="yyyy1 (5).png" itemID="577106a0-000005f3" sourceExternalFilepath="../../MyGamePavel/LIBRARY/yyyy1 (5).png" sourceLastImported="1467024986" externalFileCRC32="1594012340" externalFileSize="19824" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="yyyy1 (5).png" bitmapDataHRef="M 225 1467025056.dat" frameRight="8000" frameBottom="8000"/>
+          <DOMBitmapItem name="еееее11 (1).png" itemID="5772474f-000005a8" sourceExternalFilepath="../../MyGamePavel/LIBRARY/еееее11 (1).png" sourceLastImported="1467107101" externalFileCRC32="1744228872" externalFileSize="131544" originalCompressionType="lossless" quality="50" href="еееее11 (1).png" bitmapDataHRef="M 432 1467107151.dat" frameRight="10200" frameBottom="10200"/>
+          <DOMBitmapItem name="еееее11 (2).png" itemID="5772474f-000005ad" sourceExternalFilepath="../../MyGamePavel/LIBRARY/еееее11 (2).png" sourceLastImported="1467107093" externalFileCRC32="4142317431" externalFileSize="137509" originalCompressionType="lossless" quality="50" href="еееее11 (2).png" bitmapDataHRef="M 433 1467107151.dat" frameRight="10200" frameBottom="10200"/>
+          <DOMBitmapItem name="еееее11 (3).png" itemID="5772474f-000005b2" sourceExternalFilepath="../../MyGamePavel/LIBRARY/еееее11 (3).png" sourceLastImported="1467107088" externalFileCRC32="3091083094" externalFileSize="136987" originalCompressionType="lossless" quality="50" href="еееее11 (3).png" bitmapDataHRef="M 434 1467107151.dat" frameRight="10200" frameBottom="10200"/>
+          <DOMBitmapItem name="Растровое изображение 119" itemID="576fbeab-00000281" sourceExternalFilepath="../../MyGamePavel/LIBRARY/Растровое изображение 119" sourceLastImported="1466941099" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 119./MyGamePavel/LIBRARY/Растровое изображение 119" bitmapDataHRef="M 119 1466941099.dat" frameRight="12800" frameBottom="7200"/>
+          <DOMBitmapItem name="Растровое изображение 120" itemID="576fbeab-00000283" sourceExternalFilepath="../../MyGamePavel/LIBRARY/Растровое изображение 120" sourceLastImported="1466941099" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 120./MyGamePavel/LIBRARY/Растровое изображение 120" bitmapDataHRef="M 120 1466941099.dat" frameRight="12800" frameBottom="7200"/>
+          <DOMBitmapItem name="Растровое изображение 121" itemID="576fbeab-00000285" sourceExternalFilepath="../../MyGamePavel/LIBRARY/Растровое изображение 121" sourceLastImported="1466941099" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 121./MyGamePavel/LIBRARY/Растровое изображение 121" bitmapDataHRef="M 121 1466941099.dat" frameRight="12800" frameBottom="7200"/>
+          <DOMBitmapItem name="Растровое изображение 122" itemID="576fbeab-00000287" sourceExternalFilepath="../../MyGamePavel/LIBRARY/Растровое изображение 122" sourceLastImported="1466941099" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 122./MyGamePavel/LIBRARY/Растровое изображение 122" bitmapDataHRef="M 122 1466941099.dat" frameRight="12800" frameBottom="7200"/>
+          <DOMBitmapItem name="Растровое изображение 123" itemID="576fbeab-00000289" sourceExternalFilepath="../../MyGamePavel/LIBRARY/Растровое изображение 123" sourceLastImported="1466941099" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 123./MyGamePavel/LIBRARY/Растровое изображение 123" bitmapDataHRef="M 123 1466941099.dat" frameRight="12800" frameBottom="7200"/>
+          <DOMBitmapItem name="Растровое изображение 124" itemID="576fbeab-0000028b" sourceExternalFilepath="../../MyGamePavel/LIBRARY/Растровое изображение 124" sourceLastImported="1466941099" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 124./MyGamePavel/LIBRARY/Растровое изображение 124" bitmapDataHRef="M 124 1466941099.dat" frameRight="12800" frameBottom="7200"/>
+          <DOMBitmapItem name="Растровое изображение 125" itemID="576fbeab-0000028d" sourceExternalFilepath="../../MyGamePavel/LIBRARY/Растровое изображение 125" sourceLastImported="1466941099" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 125./MyGamePavel/LIBRARY/Растровое изображение 125" bitmapDataHRef="M 125 1466941099.dat" frameRight="12800" frameBottom="7200"/>
+          <DOMBitmapItem name="Растровое изображение 126" itemID="576fbeab-0000028f" sourceExternalFilepath="../../MyGamePavel/LIBRARY/Растровое изображение 126" sourceLastImported="1466941099" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 126./MyGamePavel/LIBRARY/Растровое изображение 126" bitmapDataHRef="M 126 1466941099.dat" frameRight="12800" frameBottom="7200"/>
+          <DOMBitmapItem name="Растровое изображение 127" itemID="576fbeab-00000291" sourceExternalFilepath="../../MyGamePavel/LIBRARY/Растровое изображение 127" sourceLastImported="1466941099" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 127./MyGamePavel/LIBRARY/Растровое изображение 127" bitmapDataHRef="M 127 1466941099.dat" frameRight="12800" frameBottom="7200"/>
+          <DOMBitmapItem name="Растровое изображение 128" itemID="576fbeab-00000293" sourceExternalFilepath="../../MyGamePavel/LIBRARY/Растровое изображение 128" sourceLastImported="1466941099" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 128./MyGamePavel/LIBRARY/Растровое изображение 128" bitmapDataHRef="M 128 1466941099.dat" frameRight="12800" frameBottom="7200"/>
+          <DOMBitmapItem name="Растровое изображение 129" itemID="576fbeab-00000295" sourceExternalFilepath="../../MyGamePavel/LIBRARY/Растровое изображение 129" sourceLastImported="1466941099" externalFileCRC32="4076996930" externalFileSize="1141018" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 129./MyGamePavel/LIBRARY/Растровое изображение 129" bitmapDataHRef="M 129 1466941099.dat" frameRight="12800" frameBottom="7200"/>
+          <DOMBitmapItem name="Растровое изображение 46" itemID="576d37af-00000446" sourceExternalFilepath="../../MyGamePavel/LIBRARY/Растровое изображение 46" sourceLastImported="1466775471" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 46./MyGamePavel/LIBRARY/Растровое изображение 46" bitmapDataHRef="M 46 1466775471.dat" frameRight="10000" frameBottom="9240"/>
+          <DOMBitmapItem name="Растровое изображение 47" itemID="576d37af-00000448" sourceExternalFilepath="../../MyGamePavel/LIBRARY/Растровое изображение 47" sourceLastImported="1466775471" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 47./MyGamePavel/LIBRARY/Растровое изображение 47" bitmapDataHRef="M 47 1466775471.dat" frameRight="10000" frameBottom="9240"/>
+          <DOMBitmapItem name="Растровое изображение 48" itemID="576d37af-0000044a" sourceExternalFilepath="../../MyGamePavel/LIBRARY/Растровое изображение 48" sourceLastImported="1466775471" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 48./MyGamePavel/LIBRARY/Растровое изображение 48" bitmapDataHRef="M 48 1466775471.dat" frameRight="10000" frameBottom="9240"/>
+          <DOMBitmapItem name="Растровое изображение 49" itemID="576d37b0-0000044c" sourceExternalFilepath="../../MyGamePavel/LIBRARY/Растровое изображение 49" sourceLastImported="1466775471" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 49./MyGamePavel/LIBRARY/Растровое изображение 49" bitmapDataHRef="M 49 1466775471.dat" frameRight="10000" frameBottom="9240"/>
+          <DOMBitmapItem name="Растровое изображение 50" itemID="576d37b0-0000044e" sourceExternalFilepath="../../MyGamePavel/LIBRARY/Растровое изображение 50" sourceLastImported="1466775472" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 50./MyGamePavel/LIBRARY/Растровое изображение 50" bitmapDataHRef="M 50 1466775472.dat" frameRight="10000" frameBottom="9240"/>
+          <DOMBitmapItem name="Растровое изображение 51" itemID="576d37b0-00000450" sourceExternalFilepath="../../MyGamePavel/LIBRARY/Растровое изображение 51" sourceLastImported="1466775472" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 51./MyGamePavel/LIBRARY/Растровое изображение 51" bitmapDataHRef="M 51 1466775472.dat" frameRight="10000" frameBottom="9240"/>
+          <DOMBitmapItem name="Растровое изображение 52" itemID="576d37b0-00000452" sourceExternalFilepath="../../MyGamePavel/LIBRARY/Растровое изображение 52" sourceLastImported="1466775472" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 52./MyGamePavel/LIBRARY/Растровое изображение 52" bitmapDataHRef="M 52 1466775472.dat" frameRight="10000" frameBottom="9240"/>
+          <DOMBitmapItem name="Растровое изображение 53" itemID="576d37b0-00000454" sourceExternalFilepath="../../MyGamePavel/LIBRARY/Растровое изображение 53" sourceLastImported="1466775472" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 53./MyGamePavel/LIBRARY/Растровое изображение 53" bitmapDataHRef="M 53 1466775472.dat" frameRight="10000" frameBottom="9240"/>
+          <DOMBitmapItem name="Растровое изображение 54" itemID="576d37b0-00000456" sourceExternalFilepath="../../MyGamePavel/LIBRARY/Растровое изображение 54" sourceLastImported="1466775472" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 54./MyGamePavel/LIBRARY/Растровое изображение 54" bitmapDataHRef="M 54 1466775472.dat" frameRight="10000" frameBottom="9240"/>
+          <DOMBitmapItem name="Растровое изображение 55" itemID="576d37b0-00000458" sourceExternalFilepath="../../MyGamePavel/LIBRARY/Растровое изображение 55" sourceLastImported="1466775472" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 55./MyGamePavel/LIBRARY/Растровое изображение 55" bitmapDataHRef="M 55 1466775472.dat" frameRight="10000" frameBottom="9240"/>
+          <DOMBitmapItem name="Растровое изображение 56" itemID="576d37b0-0000045a" sourceExternalFilepath="../../MyGamePavel/LIBRARY/Растровое изображение 56" sourceLastImported="1466775472" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 56./MyGamePavel/LIBRARY/Растровое изображение 56" bitmapDataHRef="M 56 1466775472.dat" frameRight="10000" frameBottom="9240"/>
+          <DOMBitmapItem name="Растровое изображение 57" itemID="576d37b0-0000045c" sourceExternalFilepath="../../MyGamePavel/LIBRARY/Растровое изображение 57" sourceLastImported="1466775472" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 57./MyGamePavel/LIBRARY/Растровое изображение 57" bitmapDataHRef="M 57 1466775472.dat" frameRight="10000" frameBottom="9240"/>
+          <DOMBitmapItem name="Растровое изображение 58" itemID="576d37b0-0000045e" sourceExternalFilepath="../../MyGamePavel/LIBRARY/Растровое изображение 58" sourceLastImported="1466775472" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 58./MyGamePavel/LIBRARY/Растровое изображение 58" bitmapDataHRef="M 58 1466775472.dat" frameRight="10000" frameBottom="9240"/>
+          <DOMBitmapItem name="Растровое изображение 59" itemID="576d37b0-00000460" sourceExternalFilepath="../../MyGamePavel/LIBRARY/Растровое изображение 59" sourceLastImported="1466775472" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 59./MyGamePavel/LIBRARY/Растровое изображение 59" bitmapDataHRef="M 59 1466775472.dat" frameRight="10000" frameBottom="9240"/>
+          <DOMBitmapItem name="Растровое изображение 60" itemID="576d37b0-00000462" sourceExternalFilepath="../../MyGamePavel/LIBRARY/Растровое изображение 60" sourceLastImported="1466775472" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 60./MyGamePavel/LIBRARY/Растровое изображение 60" bitmapDataHRef="M 60 1466775472.dat" frameRight="10000" frameBottom="9240"/>
+          <DOMBitmapItem name="Растровое изображение 61" itemID="576d37b0-00000464" sourceExternalFilepath="../../MyGamePavel/LIBRARY/Растровое изображение 61" sourceLastImported="1466775472" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 61./MyGamePavel/LIBRARY/Растровое изображение 61" bitmapDataHRef="M 61 1466775472.dat" frameRight="10000" frameBottom="9240"/>
+          <DOMBitmapItem name="Растровое изображение 62" itemID="576d37b0-00000466" sourceExternalFilepath="../../MyGamePavel/LIBRARY/Растровое изображение 62" sourceLastImported="1466775472" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 62./MyGamePavel/LIBRARY/Растровое изображение 62" bitmapDataHRef="M 62 1466775472.dat" frameRight="10000" frameBottom="9240"/>
+          <DOMBitmapItem name="Растровое изображение 63" itemID="576d37b0-00000468" sourceExternalFilepath="../../MyGamePavel/LIBRARY/Растровое изображение 63" sourceLastImported="1466775472" externalFileCRC32="2656876757" externalFileSize="131258" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 63./MyGamePavel/LIBRARY/Растровое изображение 63" bitmapDataHRef="M 63 1466775472.dat" frameRight="10000" frameBottom="9240"/>
+          <DOMBitmapItem name="Растровое изображение 66" itemID="576d3dab-00000500" sourceExternalFilepath="../../MyGamePavel/LIBRARY/Растровое изображение 66" sourceLastImported="1466777003" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 66./MyGamePavel/LIBRARY/Растровое изображение 66" bitmapDataHRef="M 66 1466777003.dat" frameRight="12000" frameBottom="9000"/>
+          <DOMBitmapItem name="Растровое изображение 67" itemID="576d3dab-00000502" sourceExternalFilepath="../../MyGamePavel/LIBRARY/Растровое изображение 67" sourceLastImported="1466777003" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 67./MyGamePavel/LIBRARY/Растровое изображение 67" bitmapDataHRef="M 67 1466777003.dat" frameRight="12000" frameBottom="9000"/>
+          <DOMBitmapItem name="Растровое изображение 68" itemID="576d3dab-00000504" sourceExternalFilepath="../../MyGamePavel/LIBRARY/Растровое изображение 68" sourceLastImported="1466777003" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 68./MyGamePavel/LIBRARY/Растровое изображение 68" bitmapDataHRef="M 68 1466777003.dat" frameRight="12000" frameBottom="9000"/>
+          <DOMBitmapItem name="Растровое изображение 69" itemID="576d3dab-00000506" sourceExternalFilepath="../../MyGamePavel/LIBRARY/Растровое изображение 69" sourceLastImported="1466777003" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 69./MyGamePavel/LIBRARY/Растровое изображение 69" bitmapDataHRef="M 69 1466777003.dat" frameRight="12000" frameBottom="9000"/>
+          <DOMBitmapItem name="Растровое изображение 70" itemID="576d3dab-00000508" sourceExternalFilepath="../../MyGamePavel/LIBRARY/Растровое изображение 70" sourceLastImported="1466777003" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 70./MyGamePavel/LIBRARY/Растровое изображение 70" bitmapDataHRef="M 70 1466777003.dat" frameRight="12000" frameBottom="9000"/>
+          <DOMBitmapItem name="Растровое изображение 71" itemID="576d3dab-0000050a" sourceExternalFilepath="../../MyGamePavel/LIBRARY/Растровое изображение 71" sourceLastImported="1466777003" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 71./MyGamePavel/LIBRARY/Растровое изображение 71" bitmapDataHRef="M 71 1466777003.dat" frameRight="12000" frameBottom="9000"/>
+          <DOMBitmapItem name="Растровое изображение 72" itemID="576d3dab-0000050c" sourceExternalFilepath="../../MyGamePavel/LIBRARY/Растровое изображение 72" sourceLastImported="1466777003" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 72./MyGamePavel/LIBRARY/Растровое изображение 72" bitmapDataHRef="M 72 1466777003.dat" frameRight="12000" frameBottom="9000"/>
+          <DOMBitmapItem name="Растровое изображение 73" itemID="576d3dab-0000050e" sourceExternalFilepath="../../MyGamePavel/LIBRARY/Растровое изображение 73" sourceLastImported="1466777003" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 73./MyGamePavel/LIBRARY/Растровое изображение 73" bitmapDataHRef="M 73 1466777003.dat" frameRight="12000" frameBottom="9000"/>
+          <DOMBitmapItem name="Растровое изображение 74" itemID="576d3dab-00000510" sourceExternalFilepath="../../MyGamePavel/LIBRARY/Растровое изображение 74" sourceLastImported="1466777003" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 74./MyGamePavel/LIBRARY/Растровое изображение 74" bitmapDataHRef="M 74 1466777003.dat" frameRight="12000" frameBottom="9000"/>
+          <DOMBitmapItem name="Растровое изображение 75" itemID="576d3dab-00000512" sourceExternalFilepath="../../MyGamePavel/LIBRARY/Растровое изображение 75" sourceLastImported="1466777003" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 75./MyGamePavel/LIBRARY/Растровое изображение 75" bitmapDataHRef="M 75 1466777003.dat" frameRight="12000" frameBottom="9000"/>
+          <DOMBitmapItem name="Растровое изображение 76" itemID="576d3dab-00000514" sourceExternalFilepath="../../MyGamePavel/LIBRARY/Растровое изображение 76" sourceLastImported="1466777003" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 76./MyGamePavel/LIBRARY/Растровое изображение 76" bitmapDataHRef="M 76 1466777003.dat" frameRight="12000" frameBottom="9000"/>
+          <DOMBitmapItem name="Растровое изображение 77" itemID="576d3dab-00000516" sourceExternalFilepath="../../MyGamePavel/LIBRARY/Растровое изображение 77" sourceLastImported="1466777003" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 77./MyGamePavel/LIBRARY/Растровое изображение 77" bitmapDataHRef="M 77 1466777003.dat" frameRight="12000" frameBottom="9000"/>
+          <DOMBitmapItem name="Растровое изображение 78" itemID="576d3dab-00000518" sourceExternalFilepath="../../MyGamePavel/LIBRARY/Растровое изображение 78" sourceLastImported="1466777003" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 78./MyGamePavel/LIBRARY/Растровое изображение 78" bitmapDataHRef="M 78 1466777003.dat" frameRight="12000" frameBottom="9000"/>
+          <DOMBitmapItem name="Растровое изображение 79" itemID="576d3dab-0000051a" sourceExternalFilepath="../../MyGamePavel/LIBRARY/Растровое изображение 79" sourceLastImported="1466777003" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 79./MyGamePavel/LIBRARY/Растровое изображение 79" bitmapDataHRef="M 79 1466777003.dat" frameRight="12000" frameBottom="9000"/>
+          <DOMBitmapItem name="Растровое изображение 80" itemID="576d3dab-0000051c" sourceExternalFilepath="../../MyGamePavel/LIBRARY/Растровое изображение 80" sourceLastImported="1466777003" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 80./MyGamePavel/LIBRARY/Растровое изображение 80" bitmapDataHRef="M 80 1466777003.dat" frameRight="12000" frameBottom="9000"/>
+          <DOMBitmapItem name="Растровое изображение 81" itemID="576d3dab-0000051e" sourceExternalFilepath="../../MyGamePavel/LIBRARY/Растровое изображение 81" sourceLastImported="1466777003" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 81./MyGamePavel/LIBRARY/Растровое изображение 81" bitmapDataHRef="M 81 1466777003.dat" frameRight="12000" frameBottom="9000"/>
+          <DOMBitmapItem name="Растровое изображение 82" itemID="576d3dab-00000520" sourceExternalFilepath="../../MyGamePavel/LIBRARY/Растровое изображение 82" sourceLastImported="1466777003" externalFileCRC32="1516032344" externalFileSize="387006" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 82./MyGamePavel/LIBRARY/Растровое изображение 82" bitmapDataHRef="M 82 1466777003.dat" frameRight="12000" frameBottom="9000"/>
+     </media>
+     <symbols>
+          <Include href="Alien.xml" itemID="5770e255-00000412" lastModified="1467015765"/>
+          <Include href="aster.xml" loadImmediate="false" itemID="576e4eac-0000029d" lastModified="1466847067"/>
+          <Include href="aster1.xml" itemID="57724777-000005b7" lastModified="1467363939"/>
+          <Include href="asteroids.xml" itemID="576e5325-00000322" lastModified="1466848037"/>
+          <Include href="asteroids_dead.xml" itemID="576e5031-000002df" lastModified="1466847952"/>
+          <Include href="bg.xml" itemID="576a8bdf-00000213" lastModified="1466600415"/>
+          <Include href="bg1.xml" itemID="576d3dfb-00000529" lastModified="1466778646"/>
+          <Include href="bg3.xml" itemID="576fbf85-0000029a" lastModified="1467109061"/>
+          <Include href="bg4.xml" itemID="5772394d-000004fb" lastModified="1467113394"/>
+          <Include href="blueScreen.xml" itemID="576d162c-00000371" lastModified="1466766923"/>
+          <Include href="BOMB.xml" itemID="5771074e-0000060d" lastModified="1467025452"/>
+          <Include href="bonPika.xml" itemID="57724ee1-00000694" lastModified="1467111783"/>
+          <Include href="bonuses.xml" itemID="576d1e55-000003ed" lastModified="1467109367"/>
+          <Include href="btn.xml" itemIcon="0" loadImmediate="false" itemID="576e75df-00000347" lastModified="1466856927"/>
+          <Include href="btn1.xml" itemIcon="0" itemID="576e773e-0000034f" lastModified="1466857278"/>
+          <Include href="btn2.xml" itemIcon="0" itemID="5770f46e-000004e9" lastModified="1467026183"/>
+          <Include href="btnGame.xml" itemID="5770d15a-00000357" lastModified="1467011688"/>
+          <Include href="btnOption.xml" itemIcon="0" itemID="5770d7e3-0000039b" lastModified="1467013474"/>
+          <Include href="bullet.xml" itemID="576bcf20-00000328" lastModified="1466683168"/>
+          <Include href="disco.xml" itemID="5772498c-0000061f" lastModified="1467364046"/>
+          <Include href="explosion.xml" itemID="576cfdc4-000002a3" lastModified="1466761080"/>
+          <Include href="game.xml" itemIcon="0" itemID="576e73bf-00000335" lastModified="1466856710"/>
+          <Include href="HEALTH.xml" itemID="57710599-000005dc" lastModified="1467025211"/>
+          <Include href="kissBonus.xml" itemID="57724cad-0000064d" lastModified="1467109206"/>
+          <Include href="MONEY.xml" itemID="576d380d-00000473" lastModified="1466776271"/>
+          <Include href="redScreen.xml" itemID="576d15c6-0000036d" lastModified="1466766832"/>
+          <Include href="shipDest.xml" itemID="576bac15-000002cb" lastModified="1466674518"/>
+          <Include href="shipFly1.xml" itemID="576ba47d-00000251" lastModified="1466688816"/>
+          <Include href="shipStand.xml" loadImmediate="false" itemID="576b983b-000001dd" lastModified="1466775177"/>
+          <Include href="shoot_fire.xml" itemID="576d05ee-0000032a" lastModified="1466762760"/>
+          <Include href="spaceShip.xml" itemID="576bbf89-0000031e" lastModified="1466775268"/>
+          <Include href="star.xml" itemID="576a89d2-000001ee" lastModified="1466599890"/>
+          <Include href="telek.xml" loadImmediate="false" itemID="57724ced-0000065a" lastModified="1467110109"/>
+          <Include href="ufo.xml" itemID="576cd740-00000249" lastModified="1466762850"/>
+          <Include href="ufo_hurt.xml" loadImmediate="false" itemID="576cd433-00000236" lastModified="1466750126"/>
+          <Include href="ufo_stands.xml" loadImmediate="false" itemID="576cd321-0000021b" lastModified="1466749906"/>
+          <Include href="whiteScreen.xml" itemID="576d139f-00000362" lastModified="1466766485"/>
+          <Include href="yellowScreen.xml" itemID="576d150b-00000366" lastModified="1466766714"/>
+          <Include href="копия Символ 50.xml" loadImmediate="false" itemID="5770c9a6-000002ba" lastModified="1467012087"/>
+          <Include href="Символ 1.xml" loadImmediate="false" itemID="576b991d-000001e8" lastModified="1466669341"/>
+          <Include href="Символ 2.xml" loadImmediate="false" itemID="576ba4ae-00000256" lastModified="1466672302"/>
+          <Include href="Символ 3.xml" loadImmediate="false" itemID="576cd341-00000221" lastModified="1466749761"/>
+          <Include href="Символ 4.xml" itemIcon="0" loadImmediate="false" itemID="576e74ff-0000033c" lastModified="1466856703"/>
+          <Include href="Символ 5.xml" itemIcon="0" loadImmediate="false" itemID="576e7506-00000340" lastModified="1466856710"/>
+          <Include href="Символ 6.xml" loadImmediate="false" itemID="576fc2ae-000002be" lastModified="1466942377"/>
+          <Include href="Символ 7.xml" loadImmediate="false" itemID="576fc2ce-000002c3" lastModified="1466942158"/>
+          <Include href="Символ 8.xml" loadImmediate="false" itemID="576fc348-000002c8" lastModified="1466942280"/>
+          <Include href="Символ 9.xml" loadImmediate="false" itemID="5770ccba-0000031b" lastModified="1467010572"/>
+          <Include href="Символ 10.xml" loadImmediate="false" itemID="5770ec44-00000449" lastModified="1467121578"/>
+          <Include href="Символ 11.xml" loadImmediate="false" itemID="5770edd6-00000472" lastModified="1467018710"/>
+          <Include href="Символ 12.xml" loadImmediate="false" itemID="5770ee81-0000047a" lastModified="1467018881"/>
+          <Include href="Символ 13.xml" loadImmediate="false" itemID="5770ef88-000004a0" lastModified="1467114019"/>
+          <Include href="Символ 14.xml" itemIcon="0" loadImmediate="false" itemID="5770f845-0000050a" lastModified="1467021381"/>
+          <Include href="Символ 15.xml" loadImmediate="false" itemID="5770f987-00000539" lastModified="1467021889"/>
+          <Include href="Символ 41.xml" loadImmediate="false" itemID="576fbeab-0000027b" lastModified="1466941099"/>
+          <Include href="Символ 44.xml" loadImmediate="false" itemID="576ff8b3-0000027c" lastModified="1466955980"/>
+          <Include href="Символ 45.xml" loadImmediate="false" itemID="576ff8db-00000284" lastModified="1466956671"/>
+          <Include href="Символ 47.xml" loadImmediate="false" itemID="576ffb6c-000002cc" lastModified="1466956714"/>
+          <Include href="Символ 48.xml" loadImmediate="false" itemID="576ffc0e-00000303" lastModified="1466956873"/>
+          <Include href="Символ 49.xml" loadImmediate="false" itemID="5770c95f-00000294" lastModified="1467009980"/>
+          <Include href="Символ 50.xml" loadImmediate="false" itemID="576d37af-00000440" lastModified="1466775472"/>
+          <Include href="Символ 53.xml" loadImmediate="false" itemID="576d3dab-000004fa" lastModified="1466777003"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="Монтажный кадр 1">
+               <layers>
+                    <DOMLayer name="Слой 1" color="#4FFF4F" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" name="menu" labelType="name" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[stop();
+
+var bg = new Sound();
+bg.attachSound("bgMusic");
+
+bg.start();
+
+bg.setVolume(60);//Регулируем звук от 100 до 0
+
+bg.onSoundComplete = function(){//Вешаем зацыкливание на на музыку
+	
+}
+
+btnGame.onRelease = function(){
+	gotoAndStop("game");
+	bg.stop();
+}
+btnOption.onRelease = function(){
+	gotoAndStop("option");
+	
+}
+
+]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="1" name="game" labelType="name" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[stop();
+var sLaser1 = new Sound();//переменная для лазера игрока
+var sLaser2 = new Sound();//переменная для лазера врага
+var sHit = new Sound();//переменная для урона корабля
+var sExp = new Sound();//переменная для взрыва
+var sPower = new Sound();//переменная для подбирания бонусов
+var sFall = new Sound();//переменная когда корабль игрока уничтожается
+var sBg2 = new Sound();
+
+sExp.attachSound("sExp");
+sFall.attachSound("sFall");
+sHit.attachSound("sHit");
+sLaser1.attachSound("sL1");
+sLaser2.attachSound("sLaser2");
+sPower.attachSound("sPower");
+sBg2.attachSound("sBg2");
+
+
+var stageCoords={x:Stage.width/2,y:Stage.height/2, rand:280, rand2:350}
+trace(stageCoords.x);
+
+
+
+var bullet_speed = 12;
+var star_speed = 12;
+var bonus_speed = 0.5;
+var asteroid_speed = 0.8;
+
+var asteroid_counter = 0;
+
+var star_counter = 0;
+var bullet_counter = 0;
+var enemies_counter = 0;//счетчик врагов
+var score = 0;
+
+var bonus_counter = 0;
+
+var BG_DEPTH =-2;
+var STAR_DEPTH = 1;
+var SHIP_DEPTH = 5;//Переменная корабль
+var BULLET_DEPTH = 4;
+var ENEMY_DEPTH = 3;
+var DISPLAY_DEPTH = 6; //Дисплей жизней и тд глубина 6 - поверх всех обьектов
+var BONUS_DEPTH = 2;
+var ASTEROID_DEPTH = 0;
+
+var bgField=_root.createEmptyMovieClip("bgField",BG_DEPTH);
+
+var starField=_root.createEmptyMovieClip("starField",STAR_DEPTH);
+
+var shipField=_root.createEmptyMovieClip("shipField",SHIP_DEPTH);
+
+var bulletField =_root.createEmptyMovieClip("bulletField",BULLET_DEPTH);
+var bullets =[];
+
+var enemyField =_root.createEmptyMovieClip("enemyField",ENEMY_DEPTH);
+var ENEMIES_DEPTH = 0;//Переменная нужна чтоб спавн врагов происходил позади ключевого обьекта
+
+var enemies = [];
+
+var bonusField =_root.createEmptyMovieClip("bonusField",BONUS_DEPTH); 
+var BONUSES_DEPTH = 0;//Глубина каждого бонуса
+
+
+var asteroidField =_root.createEmptyMovieClip("asteroidField", ASTEROID_DEPTH);
+var ASTEROIDS_DEPTH = 0;//Глубина каждого астероида
+var asteroids = [];
+
+
+var myFormat = new TextFormat();
+myFormat.size = 16;
+myFormat.color = 0xFFFFFF;
+
+
+var displayField = _root.createEmptyMovieClip("displayField", DISPLAY_DEPTH);
+var hpField = displayField.createEmptyMovieClip("hpField", 1);
+var scoreField = displayField.createEmptyMovieClip("scoreField", 2);
+
+var whiteScreenField = displayField.createEmptyMovieClip("whiteScreenField", 0);
+var redScreenField = displayField.createEmptyMovieClip("redScreenField", -1);
+var blueScreenField = displayField.createEmptyMovieClip("blueScreenField", -2);
+var greenScreenField = displayField.createEmptyMovieClip("greenScreenField", -3);
+var bonusPikaField = displayField.createEmptyMovieClip("bonPika",-4);
+
+starField.onEnterFrame=function(){
+	star_counter++;
+	star=starField.attachMovie("star","star"+star_counter,star_counter);
+	star._x = stageCoords.x+int((Math.random()*stageCoords.rand2)+(Math.random()*-stageCoords.rand2));
+	star._y = stageCoords.y+int((Math.random()*-stageCoords.rand)+(Math.random()*stageCoords.rand));
+	star._xscale = star._yscale = 10;
+	star.xx = star._x;
+	star.yy = star._y;
+	
+	if(star.yy <= stageCoords.y ){
+		star.yMov = "u";
+		}else{
+			star.yMov = "d";
+	}
+	if(star.xx <= stageCoords.x ){
+		star.xMov = "l";
+		}else{
+			star.xMov = "r";
+	}
+	star.onEnterFrame = starStuff;
+};
+
+function starStuff(){
+	this._xscale=this._yscale+=star_speed;
+	
+	switch(this.xMov){
+		case "r":
+		this._x+= star_speed;
+		break;
+		case "l":
+		this._x -= star_speed;
+		break;
+	}
+	switch(this.yMov){
+		case "u":
+		this._y -= star_speed;
+		break;
+		case "d":
+		this._y += star_speed;
+		break;
+	}
+}
+function createBG(sc:Number,xx:Number,yy:Number){
+	sBg2.start();
+	sBg2.setVolume(15);
+	bg= bgField.attachMovie("bg4","bg4",0);
+	bg._x = xx;
+	bg._y = yy;
+	bg._xscale = bg._yscale = sc;
+	bg.onEnterFrame = function(){
+		this._rotation += 0.1;
+		this._xscale=this._yscale += 0.01;
+		
+	}
+}
+
+function createShip(xx:Number,yy:Number){
+	ship = shipField.attachMovie("spaceShip","spaceShip",0);
+	ship._x = xx;
+	ship._y = yy;
+	ship.dead = false;
+	ship.able = true;
+	ship.recovery = 0;
+	ship.recoveryTime = 15;
+	ship.hp = 100;
+	ship.xVel = 0;
+	ship.yVel = 0;
+	ship.fr = 0.87;
+	ship.maxVel = 7;
+	ship.power = 3;
+	ship.attackStr = 5;
+	ship.radiusW = ship._width/2;
+	ship.radiusH = ship._height/2;
+	ship.canShoot = 0;
+	ship.coolDown = 12;
+	ship.onEnterFrame = controlShip;
+}
+function controlShip(){
+	if(!this.dead){
+		this.canShoot++;//Возможно получать урон
+		if(!this.able){
+			this.recovery++;
+			if(this.recovery>=this.recoveryTime){
+				this.recovery = 0;
+				this.able = true;
+			
+			}
+		}
+		if(Key.isDown(Key.UP)){
+			if(Math.abs(this.yVel)<=this.maxVel){
+				this.yVel -= this.power;
+			}
+		}
+		if(Key.isDown(Key.DOWN)){
+			if(Math.abs(this.yVel)<=this.maxVel){
+				this.yVel += this.power;
+			}
+		}
+		if(Key.isDown(Key.LEFT)){
+			if(Math.abs(this.xVel)<=this.maxVel){
+				this.xVel -= this.power;
+			}
+		}
+		if(Key.isDown(Key.RIGHT)){
+			if(Math.abs(this.xVel)<=this.maxVel){
+				this.xVel += this.power;
+			}
+		}
+		if(Math.abs(this.yVel)>=2 || Math.abs(this.xVel)>=1){
+			this.gotoAndStop(2);
+		}else{
+			this.gotoAndStop(1);
+		}
+		if(Key.isDown(Key.SPACE) && this.canShoot>=this.coolDown){
+		   this.canShoot = 0;
+		   shoot(this._x-5,this._y);
+			sLaser1.start();
+			sLaser1.volume(60);
+		}
+		if(this._y<=this.radiusH){
+			this._y = this.radiusH;
+		}
+		if(this._y>=Stage.height - this.radiusH){
+			this._y = Stage.height - this.radiusH;
+		}
+		if(this._x<=this.radiusW){
+			this._x = this.radiusW;
+		}
+		if(this._x>=Stage.width - this.radiusW){
+			this._x = Stage.width - this.radiusW;
+		}
+		this._x += this.xVel; 
+		this._y += this.yVel; 
+		this.yVel *= this.fr;
+		this.xVel *= this.fr;
+		if(this.hp<=0){
+			this.gotoAndStop(3);
+			this.rotation = -45;
+			this.dead = true;
+			exp = this.attachMovie("explosion","expl",this.getNextHighestDepth());
+			exp._xscale = 150;
+			
+		}
+		for(var i=0;i<=asteroids.length;i++){
+			if(asteroids[i].hitTest(this._x, this._y, true) && (asteroids[i]._xscale>= 100 && asteroids[i]._xscale<= 160 ) && !asteroids[i].dead){//Условие проверки косания кораблся
+				if(this.able){//Если мы можем получать урон
+					if(this.hp>0){//Если жизни больше нуля то
+						sHit.start();
+						asteroids[i].dead = true;
+						asteroids[i].gotoAndStop(2);
+						this.hp -= int(asteroids[i]._xscale/5);
+						exp = asteroids[i].attachMovie("explosion","expl",asteroids[i].getNextHighestDepth());
+						exp._xscale = 80;
+						rs.displayField.redScreenField.attachMovie("redScreen","redScreen",0);
+						rs._x = stageCoords.x;
+						rs._y = stageCoords.y;
+						this.xVel = this.xVel+(int(Math.random()*35)-19);//Когда астероид в нас ударяется то мы немного отклоняемся в сторону
+						this.yVel = this.yVel+(int(Math.random()*-35)+22);   
+							if(this.hp<0){
+								this.hp = 0;
+						}
+					}
+				}
+			}
+		}
+	}else{//Если наш герой умирает то
+		this._y += 5;//улетает по координатам
+		this._x -= 5;
+		this._xscale = this._yscale += 1;//движеться на эран
+		this.deathC == undefined ? this.deathC = 0 : this.deathC++;
+		if(this.deathC>=30){
+			this.removeMovieClip();
+			gameOver();
+			sFall.start();
+			sBg2.stop();
+		}
+	}
+}
+
+function shoot(xx:Number,yy:Number){
+	bullet_counter++;
+	bb = bulletField.attachMovie("bullet","bullet"+bullet_counter,bullet_counter);
+	bullets.push(bb);
+	bb._x=xx+int((Math.random()*20)+(Math.random()*-25));
+	bb._y=yy+int((Math.random()*-25)+(Math.random()*20));
+	bb._xscale = bb._yscale = 80;
+	bb.onEnterFrame = bulletStuff;
+}
+function bulletStuff(){
+	if(this._xscale = this._yscale>0){
+		this._xscale = this._yscale -= bullet_speed;
+	}else{
+		this.removeMovieClip();
+	}
+}
+
+function spawnEnemy(){
+	enemies_counter++;//плюс 1 враг
+	enemy = enemyField.attachMovie("ufo","ufo"+enemies_counter, ENEMIES_DEPTH);
+	enemies.push(enemy);//добавляем значение в массив
+	enemy._x = stageCoords.x + int(Math.random()*250)-135;//появление тарелки по x b y
+	enemy._y = stageCoords.y + int(Math.random()*-150)+85;
+	enemy._xscale = enemy._yscale=5;//чем дальше обьект тем он меньше
+	enemy.dead = false;//корабль уничтожен 
+	enemy.coolDown = 50+int(Math.random()*20)-15;//Максимальный интервал с которым корабль производит выстрел
+	enemy.attackStr = 10;//урон от стрельбы по игроку
+	enemy.canAttack = false;//возможность атоковать не очередье а через некоторый интервал
+	enemy.hp = 10;//жизнь
+	enemy.maxScale = 100;//насколько близко подлетит враг
+	enemy.canShoot = 0;//счетчик стрельбы
+	enemy.able = true;//возможность получать урон
+	enemy.recovery = 0;//
+	enemy.recoveryTime = 20;
+	enemy.lifeTime = 0;//чтоб враги не скапливались на сцене и улетают за экрна
+	enemy.maxLifeTime = 150;//улет за экран
+	enemy.gone = false;//улетает тарелка
+	enemy.onEnterFrame = controlEnemy;//обработчик
+	ENEMIES_DEPTH--;//враги спавнятся позади старых
+	
+	
+	
+}
+
+function controlEnemy(){
+	if(!this.dead){//если живой
+		if(!this.able){//возможность получать урон
+			this.recovery++;//увелич счетчик
+			if(this.recovery>=this.recoveryTime){//Если значение достигает
+				this.recovery = 0;//То обнуляем
+				this.able = true;//Возвращаем возможность получать урон
+			}
+		}
+		if(this._xscale<=this.maxScale && !this.canAttack){//Если размер достиг максимума и не может аттаковать
+		this._xscale = this._yscale += 0.5;//Увеличиваем размер
+		if(this.gone){//Если уже враг улетает
+			this._y -=10;//Поднимаем вверх
+			this._xscale = this._yscale +=2;
+			if(this._y <= -5){//Когда достигаем конечной точки
+				this.swapDepths(100);//Меняем глубину муви клипа на 100 так как команда removeMovieclip удаляет со с цены только положительные значения
+				this.removeMovieClip();
+			}
+		}
+		
+	}else{
+		this.canAttack = true;//Когда достигаем нужного размера
+	}
+		if(this.canAttack && !this.gone){//Если может аттаковать и НЕ УЛЕТАЕТ то
+			this.canShoot++;//Увеличиваем счетчик стрельбы
+			this.lifeTime++;//Увеличиваем время жизни
+			if(this.lifeTime >= this.maxLifeTime){//Елси счетчик жизни стал больше или равен максимуму
+				this.canAttack = false;//Не может аттаковать
+				this.maxScale = 300;//Меняем размер
+				this.gone = true; //Теперь должен улетать
+				//this.swapDepths(100);
+				this.removeMovieClip();
+				
+			}
+			if(this.canShoot >= this.coolDown && this.able){//Если счетчик больше или равен максимуму и может получать повреждения
+				this.canShoot = 0; // Обнуляем счетчик
+				ship.hp -=  this.attackStr; //Забираем жизнь у корабля-героя
+				ff = this.ship.attachMovie("shoot_fire", "shoot_fire", 0 );//Прикручиваем анимацию стрельбы
+				ff._xscale = ff._yscale = 150;
+				ff._y -= 5;
+				
+				rs = displayField.redScreenField.attachMovie("redScreen","redScreen",0 );//Прикрепляем анимацию красного экрана
+				rs._x = stageCoords.x;
+				rs._y = stageCoords.y;
+				sLaser2.start();
+			}
+		}
+		for(var i = 0; i < bullets.length; i++){//По всем элементам массива пуль
+			if(bullets[i].hitTest(this)){//Если пуля коснулась
+				if(this.able && this._xscale >= 50 ){//Если может получать повреждения и достиг нужного размера
+					if(this.hp > 0){//Если жизней больше нуля
+						this.hp -= shipAttackStr;//Вычитаем жизнь
+						this.gotoAndStop(2);//Проигрываем анимацию повреждений
+						this.able = false;//Отключаем возможность получать повреждения
+						sHit.start();
+						
+					}else{
+						this.dead = true;//Если жизней меньше 0
+						this.gotoAndStop(3);//Проигрываем кадр разрушенного корабля
+						
+						exp = this.attachMovie("explosion", "expl", this.getNextHighestDepth());//Прикрепляем анимацию взрыва
+						exp._xscale = 150;
+						score += 30;
+						
+					}
+					
+				}
+			}
+			
+		}
+		
+	}else{
+		this._y += 7;//Если убит опускаем корабль вниз
+		this._xscale = this._yscale += 2;//Увеличиваем размер
+		this.deathC == undefined ? this.deathC = 0 : this.deathC++;//Кратка переменная для интервала после конца анимации взрыва
+			if(this.deathC>=30){
+				this.swapDepths(100);
+				this.removeMovieClip();
+			}
+		
+		}
+	
+	}
+	
+	function createDisplay(){
+		hp_txt = displayField.hpField.createTextField("hp_txt", 0, 20, 20, 300, 60);//Общедоступная переменная 
+		score_txt = displayField.scoreField.createTextField("score_txt", 1, 480, 20, 300, 60);
+		hp_txt.selectable = score_txt.selectable = false;//Команда блокирующая выделение полей
+		hp_txt.setNewTextFormat(myFormat);
+		score_txt.setNewTextFormat(myFormat);
+		hp_txt.text = "Жизни: "+ship.hp+"%";
+		score_txt.text = "Очки: "+score;
+		displayField.onEnterFrame = updateDisplay;
+		
+	}
+	
+	function updateDisplay(){
+		hp_txt.text = "Жизни: "+ship.hp+"%";
+		score_txt.text = "Очки: "+score;
+	}
+	
+	
+	function spawnBonus(){
+		var a = int(Math.random()*15)+1;//Определяем переменную со случайным значением
+			if(a%3 == 0){
+				bonus_counter++;
+				BONUSES_DEPTH++;
+				bonus = bonusField.attachMovie("bonus", "bonus"+bonus_counter, BONUSES_DEPTH);
+				bonus.TYPE = "MONEY";
+				bonus._xscale = bonus._yscale = 10;
+				bonus._x = stageCoords.x+int(Math.random()*stageCoords.rand2+Math.random()*-stageCoords.rand2);
+				bonus._y = stageCoords.y+int(Math.random()*-stageCoords.rand+Math.random()*stageCoords.rand);
+			}
+			if(a%7 == 0){//Этот знак % значит деление по модулю
+				bonus_counter++;
+				BONUSES_DEPTH++;
+				bonus = bonusField.attachMovie("bonus", "bonus"+bonus_counter, BONUSES_DEPTH);
+				bonus.TYPE = "BOMB";
+				bonus._xscale = bonus._yscale = 10;
+				bonus._x = stageCoords.x+int(Math.random()*stageCoords.rand2+Math.random()*-stageCoords.rand2);
+				bonus._y = stageCoords.y+int(Math.random()*-stageCoords.rand+Math.random()*stageCoords.rand);
+			}
+			if(a%8 == 0){//Этот знак % значит деление по модулю
+				bonus_counter++;
+				BONUSES_DEPTH++;
+				bonus = bonusField.attachMovie("bonus", "bonus"+bonus_counter, BONUSES_DEPTH);
+				bonus.TYPE = "HEALTH";
+				bonus._xscale = bonus._yscale = 10;
+				bonus._x = stageCoords.x+int(Math.random()*stageCoords.rand2+Math.random()*-stageCoords.rand2);
+				bonus._y = stageCoords.y+int(Math.random()*-stageCoords.rand+Math.random()*stageCoords.rand);
+			}
+			if(a%5 == 0){//Этот знак % значит деление по модулю
+				bonus_counter++;
+				BONUSES_DEPTH++;
+				bonus = bonusField.attachMovie("bonus", "bonus"+bonus_counter, BONUSES_DEPTH);
+				bonus.TYPE = "TELEK";
+				bonus._xscale = bonus._yscale = 10;
+				bonus._x = stageCoords.x+int(Math.random()*stageCoords.rand2+Math.random()*-stageCoords.rand2);
+				bonus._y = stageCoords.y+int(Math.random()*-stageCoords.rand+Math.random()*stageCoords.rand);
+			}
+				switch(bonus.TYPE){
+				case "MONEY":
+				bonus.gotoAndStop(1);
+				break;
+				case "BOMB":
+				bonus.gotoAndStop(2);
+				break;
+				case "HEALTH":
+				bonus.gotoAndStop(3);
+				break;
+				case "TELEK":
+				bonus.gotoAndStop(4);
+				break;
+			}
+			if(bonus.yy <= stageCoords.y){
+				bonus.yMov = "u";
+			}else{
+				bonus.yMov = "d";
+			}
+			if(bonus.xx <= stageCoords.x){
+				bonus.xMov = "l";
+			}else{
+				bonus.xMov = "r";
+			}
+			bonus.onEnterFrame = bonusStuff;
+		
+	}
+	
+	function bonusStuff(){
+		this._xscale = this._yscale += bonus_speed;
+			switch(this.yMov){
+				case "u":
+				this._y -= bonus_speed;
+				break;
+				case "d":
+				this._y += bonus_speed;
+				break;
+			}switch(this.xMov){
+				case "l":
+				this._x -= bonus_speed;
+				break;
+				case "r":
+				this._x += bonus_speed;
+				break;
+			}
+			if(this._xscale>= 70){
+				this.removeMovieClip();
+			}
+			
+		if(this.hitTest(ship._x, ship._y, true ) && (this._xscale>=35 && this._yscale<=65)){//Проверяем коснулся ли корабль игрока бонуса
+					
+				switch(this.TYPE){
+					case "MONEY":
+					score += 100;
+					ys = displayField.greenScreenField.attachMovie("yellowScreen", "yellowScreen", 0);
+					ys._x = stageCoords.x;
+					ys._y = stageCoords.y;
+					sPower.start();
+					this.removeMovieClip();
+					break;
+						case"BOMB":
+							for(var i=0;i<enemies.length;i++){
+								if(enemies[i]._xscale>= 70){
+									ws = displayField.whiteScreenField.attachMovie("whiteScreen", "whiteScreen", 0);
+										ws._x = stageCoords.x;
+											ws._y = stageCoords.y;
+											if(!enemies[i].dead){
+												enemies[i].swapDepths(100);
+												enemies[i].dead = true;
+												enemies[i].gotoAndStop(3);
+												exp = enemies[i].attachMovie("explosion", "expl",enemies[i].getNextHighestDepth());
+												exp._xscale = 150;
+												score += 25;
+											}
+									}
+							}
+							for(var i=0;i<asteroids.length;i++){
+								if(asteroids[i]._xscale>= 60){
+									ws = displayField.whiteScreenField.attachMovie("whiteScreen", "whiteScreen", 0);
+										ws._x = stageCoords.x;
+											ws._y = stageCoords.y;
+											if(!asteroids[i].dead){
+												asteroids[i].dead = true;
+												asteroids[i].gotoAndStop(2);
+												exp = asteroids[i].attachMovie("explosion", "expl",asteroids[i].getNextHighestDepth());
+												exp._xscale = 150;
+												score += 10;
+											}
+									}
+							}
+							sPower.start();
+								this.removeMovieClip();
+												break;
+						
+							
+					case"HEALTH":
+						bs = displayField.blueScreenField.attachMovie("blueScreen", "blueScreen", 0);
+						bs._x = stageCoords.x;
+						bs._y = stageCoords.y;
+						ship.hp += 20;
+							if(ship.hp>100){
+								ship.hp = 100;
+							}
+							sPower.start();
+							this.removeMovieClip();
+							break;
+							
+							case"TELEK":
+							for(var i=0;i<enemies.length;i++){
+								if(enemies[i]._xscale>= 80){
+									ws = displayField.whiteScreenField.attachMovie("bonPika", "bonPika", 0);
+										ws._x = stageCoords.x;
+											ws._y = stageCoords.y;
+											if(!enemies[i].dead){
+												enemies[i].swapDepths(100);
+												enemies[i].dead = true;
+												enemies[i].gotoAndStop(3);
+												exp = enemies[i].attachMovie("explosion", "expl",enemies[i].getNextHighestDepth());
+												exp._xscale = 150;
+												score += 25;
+												
+											}
+									}
+							}
+							for(var i=0;i<asteroids.length;i++){
+								if(asteroids[i]._xscale>= 60){
+									ws = displayField.whiteScreenField.attachMovie("bonPika", "bonPika", 0);
+										ws._x = stageCoords.x;
+											ws._y = stageCoords.y;
+											if(!asteroids[i].dead){
+												asteroids[i].dead = true;
+												asteroids[i].gotoAndStop(2);
+												exp = asteroids[i].attachMovie("explosion", "expl",asteroids[i].getNextHighestDepth());
+												exp._xscale = 150;
+												score += 10;
+											}
+									}
+							}
+							sPower.start();
+								this.removeMovieClip();
+												break;
+					
+					}	
+				}	   
+			}
+	
+	function spawnAsteroid(){
+		asteroid_counter++;
+		ast = asteroidField.attachMovie("aster1", "aster1"+asteroid_counter, ASTEROIDS_DEPTH);
+		asteroids.push(ast);
+		ast._xscale = ast._yscale = 10+int(Math.random()*8);
+		ast._x = int(Math.random()*Stage.width)+5;
+		ast._y = int(Math.random()*Stage.height)-8;
+		ast.asts.gotoAndStop(int(Math.random()*ast.asts._totalframes));
+		ast.rot = int(Math.random()*10)-8;
+		ast.maxScale = 180;
+		ast.dead = false;
+		ASTEROIDS_DEPTH++;
+		ast.onEnterFrame = asteroidStuff;
+		
+		
+	}
+	function asteroidStuff(){
+		if(!this.dead){
+			this._xscale = this._yscale += asteroid_speed;
+			this._rotation += this.rot;
+				if(this._xscale >= this.maxScale){
+					this.removeMovieClip();
+				}
+					for(var i=0; i <= bullets.length;i++){//Создаем цикл распознавания столкновения пули с астеройдом
+						if(bullets[i].hitTest(this) && (this._xscale >=100 && this._xscale  <=160)){//Если пуля коснулась а астероид был в пределах 100-160 то уничтожаем
+							this.dead = true;
+							this._rotation = 0;
+							this.gotoAndStop(2);
+							exp = this.attachMovie("explosion", "expl", this.getNextHighestDepth());
+							exp._xscale = 80;
+							score += 10;
+						}
+					}
+			
+		}else{ //Если астеройд уничтожен
+			this._y += 7;//опускаем его вниз
+			this.deathC == undefined ? this.deathC = 0 : this.deathC++;
+				if(this.deathC>=20){
+					this.removeMovieClip();
+			}
+		}
+	}
+	
+	function gameOver(){
+		starField.removeMovieClip();
+		bgField.swapDepths(100);//Так как фон у нас имеет отрицательную глубину -2
+		bgField.removeMovieClip();
+		shipField.removeMovieClip();
+		bulletField.removeMovieClip();
+		enemyField.removeMovieClip();
+		bonusField.removeMovieClip();
+		displayField.removeMovieClip();
+		asteroidField.removeMovieClip();
+		clearInterval(spawnInterval); //прекращаем функцию
+		clearInterval(bonusInterval);
+		clearInterval(asteroidInterval);
+		gotoAndStop("lose");//перехож на 3 кадр
+	}
+	
+createBG(175,stageCoords.x,stageCoords.y);
+createShip(stageCoords.x,stageCoords.y+100);
+createDisplay();
+
+
+var spawnInterval = setInterval (spawnEnemy, 3000);//Функция вызывает Указанную Нами функцию с Куазанным интервалом!!
+var bonusInterval = setInterval(spawnBonus, 3000);//вызываем функцию
+var asteroidInterval = setInterval(spawnAsteroid, 3000);
+]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="2" name="lose" labelType="name" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[stop();
+
+
+var FonMusic5 = new Sound();
+FonMusic5.attachSound("fm5");
+
+FonMusic5.start();
+
+FonMusic5.setVolume(60);//Регулируем звук от 100 до 0
+
+FonMusic5.onSoundComplete = function(){//Вешаем зацыкливание на на музыку
+	FonMusic5.start();
+}
+
+btn2.onRelease = function(){
+	gotoAndStop("menu");
+	FonMusic5.stop();
+}
+
+infoTXT.text = "Ваш счет: "+ score;
+]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="3" name="game1" labelType="name" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="4" name="option" labelType="name" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[
+stop();
+
+
+btn3.onRelease = function(){
+	gotoAndStop("menu");
+	bg.stop();
+}]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Слой 2" color="#9933CC">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Символ 8" centerPoint3DX="497.3" centerPoint3DY="205.35">
+                                             <matrix>
+                                                  <Matrix tx="497.3" ty="205.35"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="44" blurY="44" color="#FF6633" quality="3"/>
+                                                  <GradientGlowFilter blurX="44" blurY="44" quality="3" type="outer">
+                                                       <GradientEntry color="#FFFFFF" alpha="0" ratio="0"/>
+                                                       <GradientEntry color="#E792E7" alpha="0.227450980392157" ratio="0.301960784313725"/>
+                                                       <GradientEntry color="#E792E7" alpha="0.227450980392157" ratio="0.301960784313725"/>
+                                                       <GradientEntry color="#DCDCDC" alpha="0.137254901960784" ratio="0.403921568627451"/>
+                                                       <GradientEntry color="#E792E7" alpha="0.227450980392157" ratio="0.992156862745098"/>
+                                                       <GradientEntry ratio="1"/>
+                                                       <GradientEntry color="#FFCC00" alpha="0.698039215686274" ratio="1"/>
+                                                       <GradientEntry color="#FFCC00" alpha="0.819607843137255" ratio="1"/>
+                                                       <GradientEntry color="#D972D9" alpha="0.403921568627451" ratio="1"/>
+                                                  </GradientGlowFilter>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="Символ 9" name="label" centerPoint3DX="308.95" centerPoint3DY="58">
+                                             <matrix>
+                                                  <Matrix a="0.982528686523438" d="0.934585571289063" tx="308.95" ty="58"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="40" blurY="40" color="#00FF00" quality="3"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="btnGame" name="btnGame" centerPoint3DX="299.45" centerPoint3DY="259.35">
+                                             <matrix>
+                                                  <Matrix tx="299.45" ty="259.35"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="20" blurY="20" color="#00FF00" inner="true" quality="3"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="btnOption" name="btnOption" centerPoint3DX="299.45" centerPoint3DY="342.85">
+                                             <matrix>
+                                                  <Matrix tx="299.45" ty="342.85"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="30" blurY="30" color="#FFFF00" quality="3"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="Alien" name="alien" centerPoint3DX="106" centerPoint3DY="289">
+                                             <matrix>
+                                                  <Matrix tx="106" ty="289"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="55" blurY="55" color="#00FF00" quality="3"/>
+                                                  <BevelFilter blurX="77" blurY="77" quality="3" highlightColor="#000000" shadowColor="#FF0000"/>
+                                                  <GradientBevelFilter blurX="1" blurY="1" quality="3">
+                                                       <GradientEntry color="#FFFFFF" ratio="0"/>
+                                                       <GradientEntry color="#333333" alpha="0.415686274509804" ratio="0.294117647058824"/>
+                                                       <GradientEntry color="#FF0000" alpha="0" ratio="0.501960784313725"/>
+                                                       <GradientEntry ratio="1"/>
+                                                  </GradientBevelFilter>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="1" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="2" keyMode="9728">
+                                   <elements>
+                                        <DOMDynamicText name="infoTXT" fontRenderingMode="device" width="245.95" height="39.25" isSelectable="false" lineType="multiline">
+                                             <matrix>
+                                                  <Matrix tx="188" ty="223.5"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters></characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" size="32" bitmapSize="640" face="CenturyGothic-BoldItalic" fillColor="#FF00CC"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                             <filters>
+                                                  <GlowFilter blurX="87" blurY="87" quality="3"/>
+                                             </filters>
+                                        </DOMDynamicText>
+                                        <DOMSymbolInstance libraryItemName="Символ 9" name="label" centerPoint3DX="307.95" centerPoint3DY="53">
+                                             <matrix>
+                                                  <Matrix a="0.982528686523438" d="0.934585571289063" tx="307.95" ty="53"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="45" blurY="45" color="#FF00CC" inner="true" quality="3"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="Символ 10" centerPoint3DX="527.25" centerPoint3DY="211.75">
+                                             <matrix>
+                                                  <Matrix tx="527.25" ty="211.75"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="22" blurY="22" color="#00CCFF" quality="3"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="Символ 11" centerPoint3DX="313.3" centerPoint3DY="154.85">
+                                             <matrix>
+                                                  <Matrix tx="313.3" ty="154.85"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="33" blurY="33" color="#FFCC33" quality="3"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="Символ 13" centerPoint3DX="88.3" centerPoint3DY="295.85">
+                                             <matrix>
+                                                  <Matrix tx="88.3" ty="295.85"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="32" blurY="32" color="#FFFF00" quality="3"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="btn2" name="btn2" centerPoint3DX="309.3" centerPoint3DY="362.35">
+                                             <matrix>
+                                                  <Matrix tx="309.3" ty="362.35"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="33" blurY="33" color="#00FF00" quality="3"/>
+                                                  <GradientGlowFilter blurX="33" blurY="33" quality="3" distance="11" type="outer">
+                                                       <GradientEntry color="#FFFFFF" alpha="0" ratio="0"/>
+                                                       <GradientEntry color="#FFFFFF" alpha="0" ratio="0.0274509803921569"/>
+                                                       <GradientEntry color="#9900CC" alpha="0.16078431372549" ratio="0.137254901960784"/>
+                                                       <GradientEntry ratio="1"/>
+                                                  </GradientGlowFilter>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="3" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="4" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Символ 15" centerPoint3DX="306.95" centerPoint3DY="67.35">
+                                             <matrix>
+                                                  <Matrix tx="306.95" ty="67.35"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="Символ 14" centerPoint3DX="224.35" centerPoint3DY="207.35">
+                                             <matrix>
+                                                  <Matrix tx="224.35" ty="207.35"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="btn2" name="btn3" centerPoint3DX="296.3" centerPoint3DY="335.3">
+                                             <matrix>
+                                                  <Matrix tx="296.3" ty="335.3"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Слой 4" color="#FF4FFF">
+                         <frames>
+                              <DOMFrame index="0" duration="5" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="bg1" centerPoint3DX="300.95" centerPoint3DY="208">
+                                             <matrix>
+                                                  <Matrix tx="300.95" ty="269"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point y="-61"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <persistentData>
+          <PD n="TestMovieChecked" v="FlashPro"/>
+     </persistentData>
+     <PrinterSettings/>
+     <publishHistory>
+          <PublishItem publishSize="6634385" publishTime="1491817670"/>
+          <PublishItem publishSize="6634127" publishTime="1468601002"/>
+          <PublishItem publishSize="6634127" publishTime="1468600937"/>
+          <PublishItem publishSize="6634125" publishTime="1468600888"/>
+          <PublishItem publishSize="6634125" publishTime="1468600869"/>
+          <PublishItem publishSize="6634125" publishTime="1468600802"/>
+          <PublishItem publishSize="6634126" publishTime="1468600700"/>
+          <PublishItem publishSize="6634124" publishTime="1467364059"/>
+          <PublishItem publishSize="6634127" publishTime="1467363993"/>
+          <PublishItem publishSize="6634121" publishTime="1467363891"/>
+          <PublishItem publishSize="6634077" publishTime="1467213447"/>
+          <PublishItem publishSize="6634073" publishTime="1467213348"/>
+          <PublishItem publishSize="6634072" publishTime="1467213118"/>
+          <PublishItem publishSize="6634071" publishTime="1467213081"/>
+          <PublishItem publishSize="6634072" publishTime="1467213031"/>
+          <PublishItem publishSize="6634063" publishTime="1467212914"/>
+          <PublishItem publishSize="6634066" publishTime="1467122491"/>
+          <PublishItem publishSize="6634063" publishTime="1467122250"/>
+          <PublishItem publishSize="6634059" publishTime="1467122000"/>
+          <PublishItem publishSize="6634071" publishTime="1467121879"/>
+     </publishHistory>
+</DOMDocument>

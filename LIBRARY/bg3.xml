@@ -1,0 +1,114 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="bg3" itemID="576fbf85-0000029a" linkageExportForAS="true" linkageIdentifier="bg3" lastModified="1467109061">
+  <timeline>
+    <DOMTimeline name="bg3" currentFrame="20">
+      <layers>
+        <DOMLayer name="Слой 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="4" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Растровое изображение 119">
+                  <matrix>
+                    <Matrix a="1.5654296875" d="1.9273681640625" tx="-576.9" ty="-408.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="320" y="180"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" duration="4" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Растровое изображение 120">
+                  <matrix>
+                    <Matrix a="1.015625" d="1.25" tx="-375.6" ty="-267.9"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" duration="4" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Растровое изображение 121">
+                  <matrix>
+                    <Matrix a="1.015625" d="1.25" tx="-371.55" ty="-268"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" duration="4" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Растровое изображение 122">
+                  <matrix>
+                    <Matrix a="1.015625" d="1.25" tx="-377.6" ty="-265.9"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="16" duration="4" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Растровое изображение 123">
+                  <matrix>
+                    <Matrix a="1.015625" d="1.25" tx="-369.6" ty="-270"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="20" duration="4" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Растровое изображение 124">
+                  <matrix>
+                    <Matrix a="1.015625" d="1.25" tx="-375.6" ty="-265.9"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="24" duration="4" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Растровое изображение 125">
+                  <matrix>
+                    <Matrix a="1.015625" d="1.25" tx="-319.65" ty="-229.95"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="28" duration="4" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Растровое изображение 126">
+                  <matrix>
+                    <Matrix a="1.015625" d="1.25" tx="-327.6" ty="-233.95"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="32" duration="4" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Растровое изображение 127">
+                  <matrix>
+                    <Matrix a="1.015625" d="1.25" tx="-321.65" ty="-220"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="36" duration="4" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Растровое изображение 128">
+                  <matrix>
+                    <Matrix a="1.015625" d="1.25" tx="-323.65" ty="-221.95"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="40" duration="4" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Растровое изображение 129">
+                  <matrix>
+                    <Matrix a="1.015625" d="1.25" tx="-325.65" ty="-217.9"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

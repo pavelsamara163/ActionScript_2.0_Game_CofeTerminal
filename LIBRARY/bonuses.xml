@@ -1,0 +1,70 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="bonuses" itemID="576d1e55-000003ed" linkageExportForAS="true" linkageIdentifier="bonus" lastModified="1467109367" lastUniqueIdentifier="2">
+  <timeline>
+    <DOMTimeline name="bonuses">
+      <layers>
+        <DOMLayer name="Слой 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" duration="4" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Слой 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" name="MONEY" labelType="name" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="MONEY" centerPoint3DX="2.3" centerPoint3DY="-5">
+                  <matrix>
+                    <Matrix tx="2.3" ty="-5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" name="BOMB" labelType="name" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="BOMB" name="BOMB" centerPoint3DX="7.35" centerPoint3DY="-32.65">
+                  <matrix>
+                    <Matrix tx="7.35" ty="-32.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" name="HEALTH" labelType="name" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="HEALTH" name="HEALTH" centerPoint3DX="-8.05" centerPoint3DY="-11">
+                  <matrix>
+                    <Matrix tx="-8.05" ty="-11"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" name="TELEK" labelType="name" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="telek" centerPoint3DX="1.35" centerPoint3DY="3.35">
+                  <matrix>
+                    <Matrix tx="1.35" ty="3.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

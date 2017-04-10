@@ -1,0 +1,30 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="BOMB" itemID="5771074e-0000060d" linkageExportForAS="true" linkageIdentifier="BOMB" lastModified="1467025452">
+  <timeline>
+    <DOMTimeline name="BOMB">
+      <layers>
+        <DOMLayer name="Слой 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="4" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="qqqq1 (1).png">
+                  <matrix>
+                    <Matrix a="0.381683349609375" d="0.39215087890625" tx="-152.05" ty="-99"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" duration="4" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="qqqq1 (2).png">
+                  <matrix>
+                    <Matrix a="0.381683349609375" d="0.39215087890625" tx="-151.05" ty="-102"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

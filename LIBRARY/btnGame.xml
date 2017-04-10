@@ -1,0 +1,66 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="btnGame" itemID="5770d15a-00000357" linkageExportForAS="true" linkageIdentifier="btnGame" lastModified="1467011688">
+  <timeline>
+    <DOMTimeline name="btnGame" currentFrame="1">
+      <layers>
+        <DOMLayer name="Слой 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="4" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="bbb1.png">
+                  <matrix>
+                    <Matrix a="0.819671630859375" d="0.879119873046875" tx="-75" ty="-40"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" duration="4" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="bbbb2.png">
+                  <matrix>
+                    <Matrix a="0.819671630859375" d="0.879119873046875" tx="-77.5" ty="-35.15"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" duration="4" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="bbbb3.png">
+                  <matrix>
+                    <Matrix a="0.819671630859375" d="0.879119873046875" tx="-74.5" ty="-41.15"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" duration="4" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="bbbb4.png">
+                  <matrix>
+                    <Matrix a="0.819671630859375" d="0.879119873046875" tx="-78.5" ty="-42.15"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="16" duration="4" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="bbbb5.png">
+                  <matrix>
+                    <Matrix a="0.819671630859375" d="0.879119873046875" tx="-74.5" ty="-37.15"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="20" duration="4" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="bbbb6.png">
+                  <matrix>
+                    <Matrix a="0.819671630859375" d="0.879119873046875" tx="-77.5" ty="-37.15"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

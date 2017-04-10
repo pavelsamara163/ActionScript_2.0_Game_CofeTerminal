@@ -1,0 +1,43 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="star" itemID="576a89d2-000001ee" linkageExportForAS="true" linkageIdentifier="star" lastModified="1466599890">
+  <timeline>
+    <DOMTimeline name="star">
+      <layers>
+        <DOMLayer name="Слой 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#FFFFFF"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!34 -34S6[48 -20 48 0!48 0[48 20 34 34!34 34[20 48 0 48!0 48[-20 48 -34 34!-34 34[-48 20 -48 0!-48 0[-48 -20 -34 -34!-34 -34[-20 -48 0 -48!0 -48[20 -48 34 -34"/>
+                    <Edge cubics="!-34 -34(;-25,-43 -13,-48 0,-48q-34 -34Q-20 -48q0 -48)0,-48;"/>
+                    <Edge cubics="!-48 0(;-48,-13 -43,-25 -34,-34q-48 0Q-48 -20q-34 -34);"/>
+                    <Edge cubics="!-34 34(-34,34;-43,25 -48,13 -48,0q-34 34Q-48 20q-48 0);"/>
+                    <Edge cubics="!0 48(0,48;-13,48 -25,43 -34,34q0 48Q-20 48q-34 34)-34,34;"/>
+                    <Edge cubics="!34 -34(;43,-25 48,-13 48,0q34 -34Q48 -20q48 0);"/>
+                    <Edge cubics="!48 0(;48,13 43,25 34,34q48 0Q48 20q34 34);"/>
+                    <Edge cubics="!0 -48(;13,-48 25,-43 34,-34q0 -48Q20 -48q34 -34);"/>
+                    <Edge cubics="!34 34(34,34;25,43 13,48 0,48q34 34Q20 48q0 48)0,48;"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

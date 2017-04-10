@@ -1,0 +1,33 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="ufo_hurt" itemID="576cd433-00000236" lastModified="1466750126">
+  <timeline>
+    <DOMTimeline name="ufo_hurt">
+      <layers>
+        <DOMLayer name="Слой 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="14" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="shipVrag.png">
+                  <matrix>
+                    <Matrix a="0.65936279296875" d="0.625" tx="-60" ty="-50"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[_parent.gotoAndStop(1);]]></script>
+              </Actionscript>
+              <elements>
+                <DOMBitmapInstance libraryItemName="shipVrag.png">
+                  <matrix>
+                    <Matrix a="0.65936279296875" d="0.625" tx="-60" ty="-50"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

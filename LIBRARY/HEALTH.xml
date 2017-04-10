@@ -1,0 +1,57 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="HEALTH" itemID="57710599-000005dc" linkageExportForAS="true" linkageIdentifier="HEALTH" lastModified="1467025211">
+  <timeline>
+    <DOMTimeline name="HEALTH" currentFrame="9">
+      <layers>
+        <DOMLayer name="Слой 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="yyyy1 (1).png">
+                  <matrix>
+                    <Matrix a="0.375" d="0.375" tx="-75" ty="-78.65"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="yyyy1 (2).png">
+                  <matrix>
+                    <Matrix a="0.375" d="0.375" tx="-74.65" ty="-75.65"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="yyyy1 (3).png">
+                  <matrix>
+                    <Matrix a="0.375" d="0.375" tx="-75.65" ty="-72.65"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="yyyy1 (4).png">
+                  <matrix>
+                    <Matrix a="0.375" d="0.375" tx="-77.65" ty="-73.65"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="yyyy1 (5).png">
+                  <matrix>
+                    <Matrix a="0.375" d="0.375" tx="-77.65" ty="-73.65"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

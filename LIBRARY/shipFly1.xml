@@ -1,0 +1,48 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="shipFly1" itemID="576ba47d-00000251" linkageExportForAS="true" linkageIdentifier="shipFly1" lastModified="1466688816">
+  <timeline>
+    <DOMTimeline name="shipFly1" currentFrame="15">
+      <layers>
+        <DOMLayer name="Слой 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="4" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="11111.png">
+                  <matrix>
+                    <Matrix a="0.57470703125" d="0.387603759765625" tx="-74.55" ty="-22.5"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" duration="4" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMBitmapInstance libraryItemName="22222.png">
+                  <matrix>
+                    <Matrix a="0.57470703125" d="0.393707275390625" tx="-76.45" ty="-25.15"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" duration="4" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMBitmapInstance libraryItemName="3333.png">
+                  <matrix>
+                    <Matrix a="0.559722900390625" d="0.381683349609375" tx="-74.65" ty="-23.15"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" duration="4" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMBitmapInstance libraryItemName="44444.png">
+                  <matrix>
+                    <Matrix a="0.57470703125" d="0.393707275390625" tx="-75.5" ty="-24.15"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

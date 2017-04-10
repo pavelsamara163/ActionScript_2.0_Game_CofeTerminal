@@ -1,0 +1,75 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="btnOption" itemID="5770d7e3-0000039b" linkageExportForAS="true" linkageIdentifier="btnOption" symbolType="button" lastModified="1467013474">
+  <timeline>
+    <DOMTimeline name="btnOption" currentFrame="27">
+      <layers>
+        <DOMLayer name="Слой 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="4" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="cccc1 (1).png">
+                  <matrix>
+                    <Matrix a="0.6787109375" d="0.73394775390625" tx="-75" ty="-40"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" duration="4" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="cccc1 (2).png">
+                  <matrix>
+                    <Matrix a="0.6787109375" d="0.73394775390625" tx="-77.15" ty="-38.15"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" duration="4" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="cccc1 (3).png">
+                  <matrix>
+                    <Matrix a="0.6787109375" d="0.73394775390625" tx="-75.15" ty="-34.15"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" duration="4" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="cccc1 (4).png">
+                  <matrix>
+                    <Matrix a="0.6787109375" d="0.73394775390625" tx="-76.15" ty="-38.15"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="16" duration="4" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="cccc1 (5).png">
+                  <matrix>
+                    <Matrix a="0.6787109375" d="0.73394775390625" tx="-76.15" ty="-40.15"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="20" duration="4" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="cccc1 (6).png">
+                  <matrix>
+                    <Matrix a="0.6787109375" d="0.73394775390625" tx="-74.15" ty="-40.15"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="24" duration="4" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="cccc1 (7).png">
+                  <matrix>
+                    <Matrix a="0.6787109375" d="0.73394775390625" tx="-80.15" ty="-37.15"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

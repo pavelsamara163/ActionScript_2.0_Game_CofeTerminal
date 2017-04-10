@@ -1,0 +1,72 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="telek" itemID="57724ced-0000065a" lastModified="1467110109">
+  <timeline>
+    <DOMTimeline name="telek" currentFrame="24">
+      <layers>
+        <DOMLayer name="Слой 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="4" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="qqqqqq11 (1).png">
+                  <matrix>
+                    <Matrix a="0.128005981445313" d="0.176773071289063" tx="-32" ty="-32"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" duration="4" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="qqqqqq11 (2).png">
+                  <matrix>
+                    <Matrix a="0.128005981445313" d="0.176773071289063" tx="-32" ty="-32.5"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" duration="4" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="qqqqqq11 (3).png">
+                  <matrix>
+                    <Matrix a="0.128005981445313" d="0.176773071289063" tx="-32" ty="-33"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" duration="4" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="qqqqqq11 (4).png">
+                  <matrix>
+                    <Matrix a="0.128005981445313" d="0.176773071289063" tx="-32" ty="-31.5"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="16" duration="4" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="qqqqqq11 (5).png">
+                  <matrix>
+                    <Matrix a="0.128005981445313" d="0.176773071289063" tx="-32" ty="-32"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="20" duration="4" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="qqqqqq11 (6).png">
+                  <matrix>
+                    <Matrix a="0.128005981445313" d="0.176773071289063" tx="-32" ty="-31.5"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="24" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[this.removeMovieClip();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

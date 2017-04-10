@@ -1,0 +1,84 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Символ 10" itemID="5770ec44-00000449" lastModified="1467121578">
+  <timeline>
+    <DOMTimeline name="Символ 10" currentFrame="15">
+      <layers>
+        <DOMLayer name="Слой 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="ffffff1.png">
+                  <matrix>
+                    <Matrix a="0.240005493164063" d="0.20001220703125" tx="-60" ty="-50"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="fffffff2 (1).png">
+                  <matrix>
+                    <Matrix a="0.240005493164063" d="0.199996948242188" tx="-55.65" ty="-47.65"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="fffffff2 (2).png">
+                  <matrix>
+                    <Matrix a="0.240005493164063" d="0.199996948242188" tx="-57.65" ty="-48.65"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="fffffff2 (3).png">
+                  <matrix>
+                    <Matrix a="0.240005493164063" d="0.199996948242188" tx="-58.7" ty="-48.65"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="fffffff2 (4).png">
+                  <matrix>
+                    <Matrix a="0.240005493164063" d="0.199996948242188" tx="-60.65" ty="-48.65"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="fffffff2 (5).png">
+                  <matrix>
+                    <Matrix a="0.240005493164063" d="0.199996948242188" tx="-53.65" ty="-41.65"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="fffffff2 (6).png">
+                  <matrix>
+                    <Matrix a="0.240005493164063" d="0.199996948242188" tx="-57.65" ty="-45.65"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="fffffff2 (7).png">
+                  <matrix>
+                    <Matrix a="0.240005493164063" d="0.199996948242188" tx="-55" ty="-50"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

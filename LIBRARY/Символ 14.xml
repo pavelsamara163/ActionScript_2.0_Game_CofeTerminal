@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Символ 14" itemID="5770f845-0000050a" symbolType="button" lastModified="1467021381">
+  <timeline>
+    <DOMTimeline name="Символ 14">
+      <layers>
+        <DOMLayer name="Слой 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="upr.png">
+                  <matrix>
+                    <Matrix a="1.46440124511719" d="1.40643310546875" tx="-144.95" ty="-41.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="99" y="29.45"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

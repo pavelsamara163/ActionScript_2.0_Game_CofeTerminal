@@ -1,0 +1,36 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="game" itemID="576e73bf-00000335" linkageExportForAS="true" linkageIdentifier="game" symbolType="button" lastModified="1466856710">
+  <timeline>
+    <DOMTimeline name="game" currentFrame="1">
+      <layers>
+        <DOMLayer name="Слой 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Символ 4" symbolType="button">
+                  <matrix>
+                    <Matrix tx="2" ty="4.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.25" y="0.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Символ 5" symbolType="button">
+                  <matrix>
+                    <Matrix tx="7.5" ty="2.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

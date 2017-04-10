@@ -1,0 +1,48 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="ufo" itemID="576cd740-00000249" linkageExportForAS="true" linkageIdentifier="ufo" lastModified="1466762850">
+  <timeline>
+    <DOMTimeline name="ufo" currentFrame="2">
+      <layers>
+        <DOMLayer name="Слой 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements>
+                <DOMSymbolInstance libraryItemName="ufo_stands" name="ship" centerPoint3DX="36" centerPoint3DY="-79">
+                  <matrix>
+                    <Matrix tx="36" ty="-79"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="ufo_hurt" centerPoint3DX="1.35" centerPoint3DY="-85.65">
+                  <matrix>
+                    <Matrix tx="1.35" ty="-85.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="shipVrag2.png">
+                  <matrix>
+                    <Matrix a="0.51019287109375" d="0.636962890625" tx="-58.65" ty="-72.15"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

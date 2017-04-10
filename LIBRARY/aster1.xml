@@ -1,0 +1,46 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="aster1" itemID="57724777-000005b7" linkageExportForAS="true" linkageIdentifier="aster1" lastModified="1467363939" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="aster1">
+      <layers>
+        <DOMLayer name="Слой 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Слой 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="disco" centerPoint3DX="2" centerPoint3DY="-3">
+                  <matrix>
+                    <Matrix a="0.649993896484375" d="0.649993896484375" tx="2" ty="-3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="asteroids_dead" centerPoint3DX="5.45" centerPoint3DY="-0.15">
+                  <matrix>
+                    <Matrix a="1.35134887695313" d="1.25" tx="3.65" ty="0.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="1.35" y="-0.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

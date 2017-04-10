@@ -1,0 +1,78 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="btn2" itemID="5770f46e-000004e9" linkageExportForAS="true" linkageIdentifier="btn2" symbolType="button" lastModified="1467026183">
+  <timeline>
+    <DOMTimeline name="btn2" currentFrame="5">
+      <layers>
+        <DOMLayer name="Слой 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="vvvv1 (1).png">
+                  <matrix>
+                    <Matrix a="0.624984741210938" d="0.48077392578125" tx="-85" ty="-25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="136" y="52"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="vvvv1 (2).png">
+                  <matrix>
+                    <Matrix a="0.625" d="0.48077392578125" tx="-84.8" ty="-25.5"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="vvvv1 (3).png">
+                  <matrix>
+                    <Matrix a="0.625" d="0.48077392578125" tx="-85.15" ty="-23.65"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="vvvv1 (4).png">
+                  <matrix>
+                    <Matrix a="0.625" d="0.48077392578125" tx="-83.65" ty="-22.65"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="vvvv1 (5).png">
+                  <matrix>
+                    <Matrix a="0.625" d="0.48077392578125" tx="-84.15" ty="-22.65"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="15" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="vvvv1 (6).png">
+                  <matrix>
+                    <Matrix a="0.625" d="0.48077392578125" tx="-84.15" ty="-21.65"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="18" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="vvvv1 (7).png">
+                  <matrix>
+                    <Matrix a="0.625" d="0.48077392578125" tx="-86.15" ty="-20.15"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,25 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="shipStand" itemID="576b983b-000001dd" lastModified="1466775177" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="shipStand" currentFrame="139">
+      <layers>
+        <DOMLayer name="Слой 1" color="#4FFF4F" current="true" isSelected="true" animationType="motion object">
+          <frames>
+            <DOMFrame index="0" duration="140" tweenType="motion object" motionTweenRotate="none" motionTweenScale="false" isMotionObject="true" visibleAnimationKeyframes="2097151" keyMode="8195">
+              <motionObjectXML><AnimationCore TimeScale="40000" Version="1" duration="140000"><TimeMap strength="0" type="Quadratic"/><metadata><names><name langID="ru_RU" value=""/></names><Settings orientToPath="0" xformPtXOffsetPct="0.5" xformPtYOffsetPct="0.5" xformPtZOffsetPixels="0"/></metadata><PropertyContainer id="headContainer"><PropertyContainer id="Basic_Motion"><Property enabled="1" id="Motion_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="10657,-1.38413" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,97.6" next="6786,103.737" previous="-10657,85.4" roving="1" timevalue="31972"/><Keyframe anchor="0,65.15" next="12078,60.9415" previous="-6786,99.05" roving="1" timevalue="52330"/><Keyframe anchor="0,-50.8" next="903,-52.058" previous="-12078,11.65" roving="1" timevalue="88563"/><Keyframe anchor="0,-58.45" next="1398,-59.1333" previous="-903,-57.1" roving="1" timevalue="91271"/><Keyframe anchor="0,-51.4" next="2974,-45.35" previous="-1398,-57.45" roving="1" timevalue="95464"/><Keyframe anchor="0,-75.85" next="3719,-86.1" previous="-2974,-68.5155" roving="1" timevalue="104387"/><Keyframe anchor="0,-73.35" next="7819,-10.8" previous="-3719,-104.6" roving="1" timevalue="115543"/><Keyframe anchor="0,-5.4" next="0,-5.4" previous="-7819,0.610932" roving="0" timevalue="139000"/></Property><Property enabled="1" id="Motion_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="10657,-1.76769" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,15.45" next="6786,27.5236" previous="-10657,-8.5" roving="1" timevalue="31972"/><Keyframe anchor="0,62" next="12078,62.8644" previous="-6786,55.05" roving="1" timevalue="52330"/><Keyframe anchor="0,56.35" next="903,56.2158" previous="-12078,63.15" roving="1" timevalue="88563"/><Keyframe anchor="0,52.6" next="1398,51.537" previous="-903,54.7" roving="1" timevalue="91271"/><Keyframe anchor="0,41.7" next="2974,36.5" previous="-1398,46.85" roving="1" timevalue="95464"/><Keyframe anchor="0,35.6" next="3719,34.8" previous="-2974,35.2226" roving="1" timevalue="104387"/><Keyframe anchor="0,23.3" next="7819,11.45" previous="-3719,29.2" roving="1" timevalue="115543"/><Keyframe anchor="0,1.1" next="0,1.1" previous="-7819,2.12796" roving="0" timevalue="139000"/></Property><Property enabled="1" id="Rotation_Z" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/></Property></PropertyContainer><PropertyContainer id="Transformation"><Property enabled="1" id="Skew_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/></Property><Property enabled="1" id="Skew_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/></Property><Property enabled="1" id="Scale_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="0"/></Property><Property enabled="1" id="Scale_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="0"/></Property></PropertyContainer><PropertyContainer id="Colors"/><PropertyContainer id="Filters"/></PropertyContainer></AnimationCore></motionObjectXML>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Символ 1" centerPoint3DX="9.5" centerPoint3DY="14">
+                  <matrix>
+                    <Matrix tx="-65.5" ty="-11"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="75" y="25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
